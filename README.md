@@ -28,12 +28,12 @@ OR
 FOR EXAMPLE 
 Input:
 ```
-bash 
+ 
 py HC.py "John Doe" "fever;cough;fatigue" 
 ```
 Output:
 ```
-bash
+
 {
   "name": "John Doe",
   "symptoms": "fever;cough;fatigue",
