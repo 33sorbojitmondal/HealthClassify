@@ -28,7 +28,6 @@ OR
 FOR EXAMPLE 
 Input:
 ```
- 
 py HC.py "John Doe" "fever;cough;fatigue" 
 ```
 Output:
