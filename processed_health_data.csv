@@ -1,0 +1,1102 @@
+symptoms,disease,icd10_code,severity,medication
+fever;cough;fatigue,Influenza,J10,2,Oseltamivir
+headache;nausea;sensitivity to light,Migraine,G43,2,Sumatriptan
+chest pain;shortness of breath,Myocardial Infarction,I21,3,Aspirin
+sore throat;runny nose,Common Cold,J00,1,Acetaminophen
+abdominal pain;diarrhea;vomiting,Gastroenteritis,A09,2,Loperamide
+joint pain;swelling;redness,Arthritis,M13,2,Ibuprofen
+frequent urination;thirst;fatigue,Diabetes,E11,3,Metformin
+weight loss;night sweats;fatigue,Tuberculosis,A16,3,Isoniazid
+fever;rash;muscle pain,Dengue,A90,2,Paracetamol
+itching;redness;swelling,Allergic Reaction,T78,1,Antihistamines
+fever;sore throat;swollen lymph nodes,Mononucleosis,B27,2,Acyclovir
+persistent cough;weight loss;night sweats,Chronic Bronchitis,J42,2,Bronchodilators
+dizziness;fainting;palpitations,Arrhythmia,I49,3,Amiodarone
+blurred vision;eye pain;headache,Glaucoma,H40,2,Timolol
+fever;headache;stiff neck,Meningitis,G00,3,Ceftriaxone
+persistent cough;blood in sputum,Tuberculosis,A15,3,Rifampicin
+severe abdominal pain;loss of appetite,Appendicitis,K35,3,Amoxicillin
+fever;chills;sweating,Malaria,B50,3,Chloroquine
+fatigue;pale skin;shortness of breath,Anemia,D50,2,Iron Supplements
+persistent headache;high blood pressure,Hypertension,I10,2,Lisinopril
+abdominal pain;bloody stool,Ulcerative Colitis,K51,2,Mesalamine
+chest pain;rapid heartbeat,Angina,I20,3,Nitroglycerin
+sudden numbness;slurred speech;confusion,Stroke,I63,3,Alteplase
+fatigue;weight gain;cold intolerance,Hypothyroidism,E03,2,Levothyroxine
+difficulty breathing;wheezing,Asthma,J45,2,Albuterol
+abdominal bloating;gas;diarrhea,Irritable Bowel Syndrome,K58,1,Antispasmodics
+swollen gums;bad breath;loose teeth,Periodontitis,K05,2,Chlorhexidine
+fever;headache;muscle pain,Zika Virus,A92,2,Acetaminophen
+persistent back pain;stiffness,Spinal Stenosis,M48,2,NSAIDs
+yellowing of skin;dark urine;fatigue,Hepatitis B,B18,2,Entecavir
+persistent sore throat;difficulty swallowing,Strep Throat,J02,1,Penicillin
+severe headache;blurred vision;neck stiffness,Encephalitis,A85,3,Acyclovir
+abdominal pain;loss of appetite;dark urine,Hepatitis C,B19,2,Sofosbuvir
+severe joint pain;fever;swelling,Chikungunya,A92.0,2,NSAIDs
+fever;vomiting;diarrhea,Salmonella Infection,A02,2,Fluoroquinolones
+frequent urination;pelvic pain;blood in urine,Bladder Infection,N30,2,Ciprofloxacin
+persistent cough;fever;night sweats,Lung Cancer,C34,3,Cisplatin
+fever;chills;muscle pain,Yellow Fever,A95,2,Vaccination
+sudden severe headache;vomiting;blurred vision,Brain Tumor,C71,3,Temozolomide
+painful urination;frequent urination,Urinary Tract Infection,N39,1,Nitrofurantoin
+fever;cough;shortness of breath,Pneumonia,J18,3,Azithromycin
+abdominal pain;blood in stool,Colon Cancer,C18,3,Capecitabine
+severe headache;vomiting;seizures,Epilepsy,G40,2,Levetiracetam
+persistent itching;red patches,Psoriasis,L40,2,Topical Steroids
+persistent dry cough;night sweats,Sarcoidosis,D86,2,Prednisone
+double vision;drooping eyelids,Myasthenia Gravis,G70,3,Pyridostigmine
+burning sensation during urination,Interstitial Cystitis,N30.1,2,Amitriptyline
+persistent diarrhea;abdominal cramps,Crohn's Disease,K50,2,Infliximab
+persistent cough;shortness of breath,Chronic Obstructive Pulmonary Disease,J44,3,Tiotropium
+fatigue;swollen lymph nodes;easy bruising,Leukemia,C91,3,Imatinib
+weakness;fatigue;dark urine,G6PD Deficiency,D55,2,Folic Acid
+severe joint pain;stiffness;swelling,Rheumatoid Arthritis,M06,2,Methotrexate
+fatigue;swollen glands;headache,Lyme Disease,A69,2,Doxycycline
+severe headaches;vision problems;balance issues,Multiple Sclerosis,G35,3,Interferon Beta
+chronic fatigue;muscle pain;memory issues,Fibromyalgia,M79.7,2,Pregabalin
+persistent chest pain;palpitations,Heart Failure,I50,3,Carvedilol
+persistent cough;wheezing;shortness of breath,Bronchiectasis,J47,2,Azithromycin
+persistent abdominal pain;diarrhea;weight loss,Celiac Disease,K90,2,Gluten-Free Diet
+muscle pain;fever;headache,Rocky Mountain Spotted Fever,A77,3,Doxycycline
+persistent cough;fatigue;weight loss,Non-Hodgkin Lymphoma,C85,3,Rituximab
+persistent headache;fever;stiff neck,Fungal Meningitis,B37.5,3,Amphotericin B
+chronic abdominal pain;constipation;diarrhea,Diverticulitis,K57,2,Ciprofloxacin
+persistent fatigue;weakness;weight loss,HIV Infection,B20,3,Antiretroviral Therapy
+fatigue;muscle weakness;dark urine,Adrenal Insufficiency,E27,2,Fludrocortisone
+severe abdominal pain;vomiting;diarrhea,Food Poisoning,A05,2,Antibiotics
+joint pain;swelling;redness;warmth,Cellulitis,L02,2,Antibiotics
+fever;chills;headache;muscle pain,Brucellosis,A23,2,Doxycycline
+abdominal pain;nausea;vomiting,Gallstones,K80,2,Ursodiol
+severe joint pain;swelling;redness;warmth,Osteoarthritis,M15,2,NSAIDs
+fatigue;weight gain;hair loss,Cushing's Syndrome,E24,2,Ketoconazole
+severe headache;vomiting;sensitivity to light,Cluster Headache,G44,2,Sumatriptan
+abdominal pain;nausea;vomiting,Cholecystitis,K81,2,Ursodiol
+persistent cough;shortness of breath;fatigue,Emphysema,J43,3,Tiotropium
+severe joint pain;swelling;redness;warmth,Ankylosing Spondylitis,M45,2,NSAIDs
+abdominal pain;nausea;vomiting,Peptic Ulcer,K25,2,Antacids
+severe joint pain;swelling;redness;warmth,Osteoporosis,M80,2,Bisphosphonates
+skin rash;fever;joint pain,Systemic Lupus Erythematosus,M32,3,Hydroxychloroquine
+excessive thirst;frequent urination;blurred vision,Diabetes Insipidus,E23.2,2,Desmopressin
+tremors;stiffness;slow movement,Parkinson's Disease,G20,3,Levodopa
+memory loss;confusion;personality changes,Alzheimer's Disease,G30,3,Donepezil
+abdominal pain;yellowing of skin;dark urine,Hepatitis A,B15,2,Supportive care
+red;itchy eyes;runny nose;sneezing,Allergic Rhinitis,J30,1,Loratadine
+bone pain;fractures;kidney stones,Hyperparathyroidism,E21,2,Cinacalcet
+excessive sweating;rapid heartbeat;weight loss,Hyperthyroidism,E05,2,Methimazole
+mood swings;depression;anxiety,Bipolar Disorder,F31,2,Lithium
+hallucinations;delusions;disorganized speech,Schizophrenia,F20,3,Risperidone
+joint pain;skin rashes;kidney problems,Mixed Connective Tissue Disease,M35.1,3,Prednisone
+difficulty speaking;muscle weakness;vision problems,Amyotrophic Lateral Sclerosis,G12.2,3,Riluzole
+excessive daytime sleepiness;sudden loss of muscle tone,Narcolepsy,G47.4,2,Modafinil
+muscle pain;weakness;dark urine,Rhabdomyolysis,M62.8,3,Intravenous fluids
+frequent infections;anemia;bone pain,Multiple Myeloma,C90,3,Bortezomib
+chest pain;shortness of breath;leg swelling,Pulmonary Embolism,I26,3,Heparin
+abdominal pain;jaundice;fever,Cholangitis,K83.0,3,Antibiotics
+muscle stiffness;spasms;difficulty walking,Cerebral Palsy,G80,3,Baclofen
+excessive hair growth;irregular periods;acne,Polycystic Ovary Syndrome,E28.2,2,Metformin
+vision loss;eye pain;halos around lights,Acute Angle-Closure Glaucoma,H40.2,3,Timolol
+swollen lymph nodes;night sweats;itching,Hodgkin's Lymphoma,C81,3,ABVD chemotherapy
+painful;swollen joints;fever;fatigue,Juvenile Idiopathic Arthritis,M08,2,Naproxen
+difficulty swallowing;heartburn;regurgitation,Gastroesophageal Reflux Disease,K21,2,Omeprazole
+muscle weakness;drooping eyelids;double vision,Lambert-Eaton Syndrome,G73.1,3,Diaminopyridine
+blood in urine;flank pain;fever,Kidney Stones,N20,2,Tamsulosin
+excessive hunger;weight loss;increased thirst,Type 1 Diabetes,E10,3,Insulin
+joint pain;skin rash;fever,Lyme Disease,A69.2,2,Doxycycline
+difficulty concentrating;hyperactivity;impulsiveness,ADHD,F90,2,Methylphenidate
+persistent sad mood;loss of interest;sleep changes,Major Depressive Disorder,F32,3,Sertraline
+diarrhea;abdominal pain;mucus in stool,Microscopic Colitis,K52.8,2,Budesonide
+facial pain;nasal congestion;headache,Sinusitis,J01,2,Amoxicillin
+painful urination;lower back pain;fever,Pyelonephritis,N10,3,Ciprofloxacin
+nose bleeds;easy bruising;prolonged bleeding,Von Willebrand Disease,D68.0,2,Desmopressin
+difficulty swallowing;chest pain;regurgitation,Achalasia,K22.0,2,Nifedipine
+joint stiffness;fatigue;low-grade fever,Polymyalgia Rheumatica,M35.3,2,Prednisone
+shortness of breath;chest pain;coughing up blood,Pulmonary Fibrosis,J84.1,3,Pirfenidone
+eye redness;light sensitivity;blurred vision,Uveitis,H20,2,Prednisolone eye drops
+excessive daytime sleepiness;loud snoring;morning headaches,Sleep Apnea,G47.3,2,CPAP therapy
+abdominal swelling;weight gain;shortness of breath,Cirrhosis,K74,3,Spironolactone
+neck swelling;difficulty swallowing;hoarseness,Thyroid Cancer,C73,3,Radioactive iodine
+memory loss;personality changes;difficulty with daily tasks,Frontotemporal Dementia,G31.0,3,Selective serotonin reuptake inhibitors
+red;scaly rash;joint pain,Psoriatic Arthritis,L40.5,2,Methotrexate
+burning chest pain;difficulty swallowing;regurgitation,Eosinophilic Esophagitis,K20.0,2,Fluticasone
+excessive sweating;rapid heartbeat;tremor,Graves' Disease,E05.0,2,Methimazole
+vision loss;eye pain;redness,Temporal Arteritis,M31.6,3,High-dose corticosteroids
+abdominal pain;bloating;early satiety,Gastroparesis,K31.84,2,Metoclopramide
+muscle weakness;difficulty climbing stairs;waddling gait,Muscular Dystrophy,G71,3,Corticosteroids
+hair loss;nail changes;skin rash,Alopecia Areata,L63,2,Topical corticosteroids
+muscle weakness;difficulty breathing;fatigue,Guillain-Barré Syndrome,G61.0,3,Intravenous immunoglobulin
+pain in big toe;redness;swelling,Gout,M10,2,Colchicine
+frequent infections;swollen lymph nodes;fatigue,Primary Immunodeficiency,D84.9,3,Immunoglobulin therapy
+joint pain;muscle weakness;rash on knuckles,Dermatomyositis,M33.1,3,Corticosteroids
+swollen salivary glands;dry eyes;dry mouth,Sjögren's Syndrome,M35.0,2,Pilocarpine
+persistent fever;rash;joint pain,Still's Disease,M06.1,3,Anakinra
+vision changes;headaches;nausea,Idiopathic Intracranial Hypertension,G93.2,2,Acetazolamide
+chest pain;rapid heartbeat;fainting,Hypertrophic Cardiomyopathy,I42.2,3,Beta-blockers
+brittle nails;hair loss;fatigue,Iron Deficiency Anemia,D50.9,2,Iron supplements
+skin thickening;joint pain;fatigue,Systemic Sclerosis,M34,3,Methotrexate
+difficulty swallowing;muscle weakness;slurred speech,Myasthenia Gravis,G70.0,3,Pyridostigmine
+chest pain;cough;fever,Pleurisy,R09.1,2,NSAIDs
+abdominal pain;jaundice;fever,Primary Biliary Cholangitis,K74.3,3,Ursodeoxycholic acid
+facial pain;headache;runny nose,Trigeminal Neuralgia,G50.0,2,Carbamazepine
+difficulty breathing;wheezing;chest tightness,Cystic Fibrosis,E84,3,Ivacaftor
+joint pain;skin rash;mouth ulcers,Behçet's Disease,M35.2,2,Colchicine
+muscle pain;weakness;dark urine,Polymyositis,M33.2,3,Prednisone
+abdominal pain;bloating;weight loss,Celiac Disease,K90.0,2,Gluten-free diet
+vision loss;eye pain;headache,Optic Neuritis,H46,2,Intravenous methylprednisolone
+numbness in extremities;tingling;burning pain,Peripheral Neuropathy,G60,2,Gabapentin
+facial drooping;arm weakness;speech difficulties,Bell's Palsy,G51.0,2,Prednisone
+excessive thirst;frequent urination;slow-healing wounds,Gestational Diabetes,O24.4,2,Insulin
+abdominal pain;rectal bleeding;urgency to defecate,Ulcerative Proctitis,K51.2,2,Mesalamine suppositories
+skin redness;blisters;itching,Shingles,B02,2,Acyclovir
+difficulty breathing;chest tightness;coughing,Bronchitis,J20,2,Dextromethorphan
+swollen lymph nodes;fever;night sweats,Castleman Disease,D47.Z2,3,Siltuximab
+difficulty speaking;facial weakness;arm weakness,Transient Ischemic Attack,G45,3,Aspirin
+excessive daytime sleepiness;cataplexy;sleep paralysis,Narcolepsy Type 1,G47.41,3,Sodium oxybate
+joint pain;fatigue;memory problems,Chronic Fatigue Syndrome,G93.3,2,Cognitive behavioral therapy
+abdominal pain;blood in stool;weight loss,Inflammatory Bowel Disease,K50-K52,3,Mesalamine
+excessive sweating;palpitations;tremors,Pheochromocytoma,E27.5,3,Phenoxybenzamine
+abdominal pain;nausea;vomiting after eating,Cyclic Vomiting Syndrome,G43.A0,2,Amitriptyline
+difficulty breathing;wheezing;coughing,Bronchiolitis,J21,2,Albuterol
+recurrent sinus infections;nasal polyps;loss of smell,Chronic Rhinosinusitis,J32,2,Fluticasone nasal spray
+abdominal pain;diarrhea;weight loss,Tropical Sprue,K90.1,2,Tetracycline
+muscle weakness;difficulty walking;loss of balance,Friedreich's Ataxia,G11.1,3,Idebenone
+excessive daytime sleepiness;snoring;morning headaches,Obstructive Sleep Apnea,G47.33,2,CPAP therapy
+blurred vision;increased eye pressure;optic nerve damage,Open-Angle Glaucoma,H40.1,2,Latanoprost
+muscle weakness;difficulty breathing;drooping eyelids,Botulism,A05.1,3,Antitoxin
+muscle weakness;loss of muscle mass;fasciculations,Amyotrophic Lateral Sclerosis,G12.21,3,Riluzole
+muscle pain;weakness;dark urine,Rhabdomyolysis,M62.82,3,Intravenous fluids
+bone pain;fractures;kidney stones,Primary Hyperparathyroidism,E21.0,2,Cinacalcet
+muscle weakness;difficulty climbing stairs;waddling gait,Duchenne Muscular Dystrophy,G71.0,3,Corticosteroids
+excessive bruising;nosebleeds;heavy menstrual bleeding,Hemophilia,D66,3,Factor VIII concentrate
+persistent dry cough;shortness of breath;chest pain,Interstitial Lung Disease,J84,3,Pirfenidone
+frequent urination;excessive thirst;blurred vision,Gestational Diabetes,O24,2,Insulin
+skin redness;itching;scaling,Atopic Dermatitis,L20,2,Topical corticosteroids
+blood in urine;lower back pain;nausea,Kidney Cancer,C64,3,Sunitinib
+memory loss;confusion;hallucinations,Lewy Body Dementia,G31.83,3,Rivastigmine
+bone pain;fractures;height loss,Osteoporosis,M81,2,Alendronate
+abdominal pain;diarrhea;joint pain,Whipple's Disease,K90.81,2,Trimethoprim-sulfamethoxazole
+chest pain;shortness of breath;fainting,Pulmonary Hypertension,I27.0,3,Sildenafil
+abdominal pain;weight loss;diarrhea,Zollinger-Ellison Syndrome,E16.4,2,Omeprazole
+skin lesions;nerve damage;muscle weakness,Leprosy,A30,2,Dapsone
+abdominal pain;jaundice;dark urine,Hepatitis B,B16,2,Entecavir
+excessive thirst;frequent urination;fruity breath odor,Diabetic Ketoacidosis,E11.69,3,Insulin
+chest pain;shortness of breath;dizziness,Aortic Dissection,I71.0,3,Beta-blockers
+abdominal pain;fever;painful urination,Prostatitis,N41,2,Ciprofloxacin
+joint pain;skin rash;eye inflammation,Reactive Arthritis,M02,2,NSAIDs
+difficulty breathing;blue-tinged skin;confusion,Carbon Monoxide Poisoning,T58,3,Oxygen therapy
+persistent cough;blood-tinged sputum;chest pain,Lung Abscess,J85,3,Ampicillin-sulbactam
+abdominal pain;bloody diarrhea;fever,Shigellosis,A03,2,Ciprofloxacin
+excessive sweating;weight loss;hand tremors,Thyrotoxicosis,E05.9,2,Propranolol
+shortness of breath;cough;chest tightness,Bronchiolitis Obliterans,J44.8,3,Corticosteroids
+difficulty swallowing;hoarseness;ear pain,Laryngeal Cancer,C32,3,Radiation therapy
+vision loss;eye pain;flashing lights,Retinal Detachment,H33,3,Surgical repair
+abdominal pain;bloating;constipation,Small Intestinal Bacterial Overgrowth,K90.89,2,Rifaximin
+skin lesions;joint pain;fever,Rocky Mountain Spotted Fever,A77.0,3,Doxycycline
+vertigo;hearing loss;tinnitus,Ménière's Disease,H81.0,2,Betahistine
+abdominal pain;jaundice;clay-colored stools,Gallbladder Cancer,C23,3,Gemcitabine
+cough;chest pain;fever,Q Fever,A78,2,Doxycycline
+muscle weakness;difficulty speaking;swallowing problems,Progressive Bulbar Palsy,G12.22,3,Riluzole
+abdominal pain;bloody diarrhea;fatigue,Lymphocytic Colitis,K52.832,2,Budesonide
+joint pain;skin changes;muscle weakness,Inclusion Body Myositis,G72.41,3,Physical therapy
+difficulty breathing;chest pain;coughing up blood,Goodpasture Syndrome,M31.0,3,Cyclophosphamide
+excessive urination;extreme thirst;unexplained weight loss,Maturity Onset Diabetes of the Young,E13,3,Sulfonylureas
+skin rash;joint pain;butterfly-shaped facial rash,Discoid Lupus Erythematosus,L93.0,2,Topical corticosteroids
+bone pain;fractures;kidney stones,Paget's Disease,M88,2,Zoledronic acid
+difficulty breathing;wheezing;coughing,Bronchopulmonary Dysplasia,P27.1,3,Budesonide
+abdominal pain;bloody diarrhea;fever,Amebiasis,A06,2,Metronidazole
+difficulty swallowing;hoarseness;ear pain,Esophageal Cancer,C15,3,Cisplatin
+muscle weakness;difficulty walking;speech problems,Multiple System Atrophy,G90.3,3,Levodopa
+abdominal pain;bloating;constipation,Chronic Intestinal Pseudo-obstruction,K59.8,2,Erythromycin
+skin lesions;joint pain;fever,Erythema Nodosum,L52,2,Naproxen
+excessive daytime sleepiness;sleep paralysis;hallucinations,Kleine-Levin Syndrome,G47.8,2,Lithium
+vertigo;hearing loss;tinnitus,Acoustic Neuroma,D33.3,2,Stereotactic radiosurgery
+abdominal pain;jaundice;clay-colored stools,Cholangiocarcinoma,C22.1,3,Gemcitabine
+muscle weakness;difficulty swallowing;slurred speech,Progressive Supranuclear Palsy,G23.1,3,Levodopa
+cough;chest pain;fever,Legionnaires' Disease,A48.1,3,Levofloxacin
+abdominal pain;diarrhea;joint pain,Henoch-Schönlein Purpura,D69.0,2,Prednisone
+bone pain;fractures;kidney stones,X-linked Hypophosphatemia,E83.31,2,Phosphate supplements
+vision changes;headaches;pulsatile tinnitus,Cerebral Venous Sinus Thrombosis,I67.6,3,Heparin
+chest pain;shortness of breath;fainting,Eisenmenger Syndrome,I27.83,3,Bosentan
+abdominal pain;weight loss;diarrhea,Carcinoid Syndrome,E34.0,3,Octreotide
+muscle weakness;difficulty speaking;swallowing problems,Spinobulbar Muscular Atrophy,G12.1,3,Leuprolide
+joint pain;skin rash;sun sensitivity,Subacute Cutaneous Lupus Erythematosus,L93.1,2,Hydroxychloroquine
+excessive daytime sleepiness;snoring;morning headaches,Upper Airway Resistance Syndrome,G47.30,2,Positional therapy
+abdominal pain;bloody diarrhea;fatigue,Collagenous Colitis,K52.831,2,Budesonide
+joint pain;skin changes;muscle weakness,Eosinophilic Fasciitis,M35.4,2,Prednisone
+burning sensation;frequent urination;lower back pain,Urinary Tract Infection,N39.0,1,Nitrofurantoin
+mouth sores;difficulty swallowing;weight loss,Oral Cancer,C06,3,Cisplatin
+joint pain;skin rash;fever,Kawasaki Disease,M30.3,2,Aspirin
+bone pain;fractures;kidney stones,Osteomalacia,M83,2,Vitamin D supplements
+rash;fever;joint pain,Zika Virus,A92.5,2,Acetaminophen
+muscle weakness;loss of sensation;bladder problems,Transverse Myelitis,G37.3,3,Methylprednisolone
+skin ulcers;fever;enlarged lymph nodes,Cutaneous Leishmaniasis,B55.1,2,Sodium stibogluconate
+skin rash;fever;enlarged lymph nodes,Cat Scratch Disease,A28.1,2,Azithromycin
+excessive sweating;rapid heartbeat;tremors,Thyroid Storm,E05.5,3,Propranolol
+tremors;coordination problems;slurred speech,Cerebellar Ataxia,G11,3,Supportive care
+abdominal pain;nausea;vomiting,Pancreatitis,K85,3,Morphine
+difficulty breathing;chest pain;coughing up blood,Wegener's Granulomatosis,M31.3,3,Cyclophosphamide
+abdominal pain;bloating;weight loss,Ovarian Cancer,C56,3,Paclitaxel
+abdominal pain;jaundice;weight loss,Pancreatic Cancer,C25,3,Gemcitabine
+red eyes;itching;tearing,Allergic Conjunctivitis,H10.45,1,Ketotifen eye drops
+neck pain;stiffness;headache,Cervical Spondylosis,M47.812,2,Cyclobenzaprine
+frequent urination;burning sensation;lower abdominal pain,Cystitis,N30.0,2,Phenazopyridine
+skin ulcers;fever;swollen lymph nodes,Cutaneous Anthrax,A22.0,3,Ciprofloxacin
+difficulty concentrating;restlessness;mood swings,Attention Deficit Hyperactivity Disorder,F90.0,2,Methylphenidate
+chest pain;difficulty swallowing;regurgitation,Esophageal Spasm,K22.4,2,Nifedipine
+painful urination;pelvic pain;fever,Pelvic Inflammatory Disease,N73.9,2,Doxycycline
+joint pain;skin rash;eye inflammation,Reiter's Syndrome,M02.3,2,Sulfasalazine
+difficulty speaking;facial drooping;arm weakness,Transient Ischemic Attack,G45.9,3,Aspirin
+facial droop;arm weakness;speech difficulties,Wallenberg Syndrome,G46.3,3,Anticoagulants
+tremors;muscle stiffness;balance problems,Corticobasal Degeneration,G31.85,3,Levodopa
+abdominal pain;weight loss;diarrhea,Gastrinoma,D37.4,3,Proton pump inhibitors
+excessive daytime sleepiness;snoring;morning headaches,Central Sleep Apnea,G47.31,2,Adaptive servo-ventilation
+abdominal pain;bloody diarrhea;fatigue,Eosinophilic Colitis,K52.82,2,Budesonide
+facial droop;arm weakness;speech difficulties,Lacunar Stroke,I63.0,3,Aspirin
+excessive urination;extreme thirst;unexplained weight loss,Latent Autoimmune Diabetes in Adults,E11.9,3,Insulin
+skin rash;joint pain;butterfly-shaped facial rash,Drug-induced Lupus,M32.0,2,Discontinuation of offending drug
+fever;cough;fatigue,Pneumocystis Pneumonia,B59,3,Trimethoprim-sulfamethoxazole
+chest pain;shortness of breath;palpitations,Atrial Fibrillation,I48,2,Warfarin
+muscle weakness;drooping eyelids;double vision,Ocular Myasthenia Gravis,G70.00,2,Neostigmine
+difficulty breathing;coughing;chest tightness,Occupational Asthma,J45.5,2,Fluticasone
+vision loss;eye pain;light sensitivity,Retinitis Pigmentosa,H35.52,3,Vitamin A palmitate
+muscle weakness;difficulty walking;falls,Charcot-Marie-Tooth Disease,G60.0,2,Gabapentin
+vertigo;hearing loss;tinnitus,Labyrinthitis,H83.0,2,Meclizine
+joint pain;fever;rash,Familial Mediterranean Fever,E85.0,2,Colchicine
+excessive bruising;nosebleeds;prolonged bleeding,Factor XI Deficiency,D68.1,2,Fresh Frozen Plasma
+abdominal pain;weight loss;diarrhea,VIPoma,D13.7,3,Octreotide
+skin lesions;joint pain;fever,Sweet's Syndrome,L98.2,2,Prednisone
+excessive daytime sleepiness;sleep paralysis;hallucinations,Idiopathic Hypersomnia,G47.11,2,Modafinil
+muscle weakness;difficulty swallowing;slurred speech,Machado-Joseph Disease,G11.2,3,Baclofen
+cough;chest pain;fever,Tularemia,A21,3,Streptomycin
+abdominal pain;diarrhea;joint pain,Intestinal Lymphangiectasia,I89.0,2,Medium-chain triglyceride diet
+excessive bruising;nosebleeds;prolonged bleeding,Bernard-Soulier Syndrome,D69.1,2,Platelet transfusions
+hair loss;fatigue;cold intolerance,Hashimoto's Thyroiditis,E06.3,2,Levothyroxine
+abdominal pain;vomiting;constipation,Intestinal Obstruction,K56,3,Nasogastric decompression
+chest pain;sweating;shortness of breath,Unstable Angina,I20.0,3,Nitroglycerin
+difficulty breathing;cough;chest pain,Pneumonia,J15,3,Azithromycin
+skin rash;fever;enlarged lymph nodes,Measles,B05,2,Vitamin A
+swelling;fatigue;loss of appetite,Chronic Kidney Disease,N18,3,Erythropoietin
+foamy urine;fatigue;swollen ankles,Nephrotic Syndrome,N04,2,Prednisone
+blood in urine;lower back pain;frequent urination,Polycystic Kidney Disease,Q61,2,Tolvaptan
+decreased urine output;confusion;swelling,Acute Kidney Injury,N17,3,Furosemide
+high blood pressure;headache;nosebleeds,Renal Hypertension,I15.0,2,Lisinopril
+frequent urination;thirst;fatigue,Diabetic Nephropathy,E11.21,2,Losartan
+itchy skin;bone pain;fatigue,Renal Osteodystrophy,N25.0,2,Calcitriol
+nausea;loss of appetite;muscle cramps,End-Stage Renal Disease,N18.6,3,Dialysis
+flank pain;fever;chills,Renal Abscess,N15.1,2,Vancomycin
+blood in urine;flank pain;fever,Glomerulonephritis,N05,2,Cyclophosphamide
+fatigue;pale skin;shortness of breath,Renal Anemia,D63.1,2,Iron supplements
+foamy urine;swelling;fatigue,Membranous Nephropathy,N04.1,2,Cyclosporine
+flank pain;fever;painful urination,Renal Tuberculosis,A18.11,2,Isoniazid
+blood in urine;flank pain;weight loss,Renal Sarcoma,C49.4,3,Doxorubicin
+nausea;vomiting;confusion,Uremia,N18.5,3,Sodium polystyrene sulfonate
+frequent urination;lower back pain;fever,Interstitial Nephritis,N12,2,Corticosteroids
+swelling;shortness of breath;fatigue,Renal Edema,R60.1,2,Spironolactone
+flank pain;fever;nausea,Xanthogranulomatous Pyelonephritis,N11.8,2,Ampicillin
+blood in urine;flank pain;fever,IgA Nephropathy,N02.8,2,Methylprednisolone
+frequent urination;lower back pain;fever,Renal Cyst Infection,N28.1,2,Levofloxacin
+fatigue;loss of appetite;itchy skin,Renal Failure,N19,3,Sodium bicarbonate
+swelling;fatigue;shortness of breath,Minimal Change Disease,N04.0,2,Tacrolimus
+blood in urine;flank pain;fever,Lupus Nephritis,M32.14,3,Mycophenolate mofetil
+frequent urination;lower back pain;fever,Renal Papillary Necrosis,N17.2,2,Oxycodone
+nausea;vomiting;confusion,Renal Tubular Acidosis,N25.89,2,Potassium citrate
+flank pain;fever;chills,Perinephric Abscess,N15.9,2,Piperacillin-tazobactam
+blood in urine;lower back pain;fever,Renal Vein Thrombosis,I82.3,2,Enoxaparin
+frequent urination;lower back pain;fever,Reflux Nephropathy,N13.70,2,Trimethoprim
+flank pain;fever;nausea,Renal Cortical Necrosis,N17.1,3,Hemodialysis
+fatigue;pale skin;shortness of breath,Renal Amyloidosis,E85.4,2,Colchicine
+swelling;fatigue;loss of appetite,Membranoproliferative Glomerulonephritis,N05.5,2,Azathioprine
+frequent urination;lower back pain;fever,Medullary Sponge Kidney,Q61.5,1,Potassium citrate
+flank pain;fever;chills,Renal Infarction,N28.0,2,Heparin
+blood in urine;lower back pain;fever,Alport Syndrome,Q87.81,2,ACE inhibitors
+nausea;vomiting;confusion,Renal Tubular Necrosis,N17.0,3,Continuous renal replacement therapy
+swelling;fatigue;shortness of breath,Congenital Nephrotic Syndrome,N04.9,3,Albumin infusion
+flank pain;fever;painful urination,Renal Actinomycosis,A42.1,2,Penicillin G
+chest pain;shortness of breath;fatigue,Coronary Artery Disease,I25.1,3,Atorvastatin
+chest pain;arm pain;sweating,Acute Coronary Syndrome,I24,3,Clopidogrel
+shortness of breath;fatigue;swelling,Cardiomyopathy,I42,3,Metoprolol
+chest pain;difficulty breathing;coughing,Pericarditis,I30,2,Ibuprofen
+dizziness;fainting;chest pain,Aortic Stenosis,I35.0,3,Amlodipine
+shortness of breath;chest pain;palpitations,Mitral Valve Prolapse,I34.1,2,Propranolol
+chest pain;fever;fatigue,Endocarditis,I33,3,Vancomycin
+swelling;shortness of breath;fatigue,Pulmonary Edema,J81,3,Morphine
+chest pain;rapid heartbeat;anxiety,Panic Disorder with Cardiac Symptoms,F41.0,2,Sertraline
+shortness of breath;cough;wheezing,Cor Pulmonale,I27.2,3,Sildenafil
+chest pain;shortness of breath;cough,Myocarditis,I40,3,Prednisone
+fatigue;weakness;shortness of breath,Dilated Cardiomyopathy,I42.0,3,Enalapril
+dizziness;fainting;fatigue,Sick Sinus Syndrome,I49.5,2,Pacemaker insertion
+chest pain;shortness of breath;nausea,Takotsubo Cardiomyopathy,I51.81,3,Metoprolol
+swelling;shortness of breath;fatigue,Restrictive Cardiomyopathy,I42.5,3,Spironolactone
+chest pain;shortness of breath;irregular heartbeat,Ventricular Tachycardia,I47.2,3,Lidocaine
+dizziness;fainting;chest pain,Postural Orthostatic Tachycardia Syndrome,G90.8,2,Midodrine
+chest pain;shortness of breath;sweating,Prinzmetal Angina,I20.1,2,Diltiazem
+fatigue;shortness of breath;swelling,Constrictive Pericarditis,I31.1,3,Colchicine
+chest pain;shortness of breath;rapid heartbeat,Cardiac Tamponade,I31.9,3,Pericardiocentesis
+dizziness;fainting;chest pain,Long QT Syndrome,I45.81,3,Nadolol
+chest pain;shortness of breath;palpitations,Wolff-Parkinson-White Syndrome,I45.6,2,Flecainide
+dizziness;fainting;chest pain,Brugada Syndrome,I49.8,3,Quinidine
+chest pain;shortness of breath;fatigue,Cardiac Sarcoidosis,D86.85,3,Prednisone
+shortness of breath;fatigue;swelling,Right-Sided Heart Failure,I50.810,3,Torsemide
+chest pain;shortness of breath;dizziness,Acute Pericarditis,I30.0,2,Colchicine
+chest pain;shortness of breath;palpitations,Supraventricular Tachycardia,I47.1,2,Adenosine
+dizziness;fainting;chest pain,Orthostatic Hypotension,I95.1,2,Fludrocortisone
+shortness of breath;fatigue;swelling,Diastolic Heart Failure,I50.30,3,Valsartan
+chest pain;shortness of breath;irregular heartbeat,Ventricular Fibrillation,I49.01,3,Defibrillation
+dizziness;fainting;chest pain,Carotid Sinus Hypersensitivity,G90.0,2,Pacemaker insertion
+chest pain;shortness of breath;dizziness,Aortic Dissection,I71.00,3,Esmolol
+fatigue;shortness of breath;swelling,Cardiac Cachexia,R64,3,Nutritional support
+jaundice;fever;abdominal pain,Hepatitis C,B17.10,3,Sofosbuvir/Velpatasvir
+abdominal swelling;fatigue;nausea,Ascites,R18,2,Furosemide
+confusion;personality changes;slurred speech,Hepatic Encephalopathy,K72.91,3,Lactulose
+right upper quadrant pain;fever;nausea,Liver Abscess,K75.0,2,Metronidazole
+fatigue;abdominal pain;jaundice,Hemochromatosis,E83.110,2,Phlebotomy
+fatigue;weakness;loss of appetite,Hepatocellular Carcinoma,C22.0,3,Sorafenib
+jaundice;dark urine;pale stools,Biliary Obstruction,K83.1,2,Endoscopic stent placement
+abdominal pain;fever;jaundice,Liver Fluke Infection,B66,2,Praziquantel
+fatigue;itching;jaundice,Primary Sclerosing Cholangitis,K83.01,3,Ursodeoxycholic acid
+nausea;vomiting;abdominal pain,Budd-Chiari Syndrome,I82.0,3,Anticoagulation
+jaundice;fatigue;abdominal pain,Autoimmune Hepatitis,K75.4,2,Prednisone
+fatigue;weight loss;abdominal swelling,Liver Metastases,C78.7,3,Chemotherapy
+jaundice;fatigue;loss of appetite,Drug-Induced Hepatitis,K71,2,Discontinuation of offending drug
+abdominal pain;nausea;vomiting,Hepatic Cyst,Q44.6,1,Observation
+fatigue;weakness;jaundice,Wilson's Disease,E83.01,2,Penicillamine
+jaundice;fever;abdominal pain,Leptospirosis,A27,2,Doxycycline
+fatigue;loss of appetite;jaundice,Chronic Active Hepatitis,K73.2,3,Prednisone
+jaundice;fatigue;abdominal pain,Gilbert's Syndrome,E80.4,1,No treatment needed
+abdominal pain;fever;jaundice,Clonorchiasis,B66.1,2,Praziquantel
+fatigue;weakness;jaundice,Alpha-1 Antitrypsin Deficiency,E88.01,2,Augmentation therapy
+right upper quadrant pain;fever;jaundice,Acute Cholecystitis,K81.0,2,Piperacillin-tazobactam
+abdominal pain;fever;jaundice,Fascioliasis,B66.3,2,Triclabendazole
+fatigue;weakness;loss of appetite,Hepatic Adenoma,D13.4,2,Surgical resection
+abdominal pain;nausea;vomiting,Porcelain Gallbladder,K82.8,2,Cholecystectomy
+fatigue;weakness;jaundice,Reye's Syndrome,G93.7,3,Supportive care
+right upper quadrant pain;fever;nausea,Amoebic Liver Abscess,A06.4,2,Metronidazole
+jaundice;fatigue;abdominal pain,Dubin-Johnson Syndrome,E80.6,1,No specific treatment
+fatigue;weakness;loss of appetite,Hepatic Hemangioma,D18.09,1,Observation
+jaundice;fever;abdominal pain,Weil's Disease,A27.0,3,Penicillin G
+abdominal pain;nausea;vomiting,Choledocholithiasis,K80.5,2,Endoscopic retrograde cholangiopancreatography
+fatigue;weakness;jaundice,Hepatic Veno-Occlusive Disease,K76.5,3,Defibrotide
+abdominal pain;nausea;vomiting,Gastritis,K29,2,Omeprazole
+abdominal pain;bloating;constipation,Chronic Constipation,K59.00,2,Polyethylene glycol
+abdominal pain;nausea;vomiting,Peptic Ulcer,K27,2,Pantoprazole
+abdominal pain;weight loss;fatigue,Stomach Cancer,C16,3,Fluorouracil
+nausea;vomiting;diarrhea,Norovirus Infection,A08.1,2,Ondansetron
+nausea;vomiting;abdominal pain,Pyloric Stenosis,K31.1,3,Surgical correction
+nausea;vomiting;abdominal pain,Hyperemesis Gravidarum,O21.0,2,Ondansetron
+abdominal pain;bloody stools;tenesmus,Dysentery,A06.0,2,Metronidazole
+abdominal pain;bloating;diarrhea,Lactose Intolerance,E73,1,Lactase enzyme supplements
+nausea;vomiting;abdominal pain,Gastric Volvulus,K31.89,3,Surgical correction
+abdominal pain;diarrhea;fever,Campylobacter Infection,A04.5,2,Azithromycin
+abdominal pain;nausea;vomiting,Gastric Outlet Obstruction,K31.5,3,Nasogastric decompression
+abdominal pain;bloating;diarrhea,Fructose Malabsorption,E74.1,1,Low-fructose diet
+abdominal pain;nausea;vomiting,Mesenteric Ischemia,K55.0,3,Heparin
+nausea;vomiting;abdominal pain,Dumping Syndrome,K91.1,2,Acarbose
+abdominal pain;diarrhea;fever,Yersiniosis,A04.6,2,Doxycycline
+abdominal pain;nausea;vomiting,Chronic Mesenteric Ischemia,K55.1,2,Aspirin
+nausea;vomiting;abdominal pain,Rumination Syndrome,F98.21,2,Behavioral therapy
+abdominal pain;bloating;diarrhea,Microscopic Colitis,K52.83,2,Budesonide
+abdominal pain;diarrhea;fever,Cryptosporidiosis,A07.2,2,Nitazoxanide
+abdominal pain;nausea;vomiting,Eosinophilic Gastroenteritis,K52.81,2,Prednisone
+dizziness;vertigo;balance problems,Vestibular Neuritis,H81.2,2,Prednisone
+headache;confusion;drowsiness,Encephalitis,G04,3,Acyclovir
+anxiety;panic attacks;irrational fears,Anxiety Disorders,F41,2,Sertraline
+memory loss;confusion;language problems,Vascular Dementia,F01,3,Memantine
+headache;nausea;light sensitivity,Cluster Headache,G44.0,2,Sumatriptan
+tics;obsessive thoughts;compulsive behaviors,Tourette Syndrome,F95.2,2,Haloperidol
+memory loss;confusion;motor difficulties,Huntington's Disease,G10,3,Tetrabenazine
+loss of consciousness;confusion;headache,Concussion,S06.0X,2,Rest and monitoring
+memory loss;confusion;gait disturbance,Normal Pressure Hydrocephalus,G91.2,2,Ventriculoperitoneal shunt
+headache;neck pain;vision problems,Chiari Malformation,Q07.0,2,Decompression surgery
+loss of smell;memory problems;sleep disorders,Mild Cognitive Impairment,G31.84,1,Cholinesterase inhibitors
+headache;vision changes;seizures,Brain Abscess,G06.0,3,Ceftriaxone and Metronidazole
+memory loss;confusion;hallucinations,Creutzfeldt-Jakob Disease,A81.0,3,Supportive care
+headache;confusion;personality changes,Brain Aneurysm,I67.1,3,Surgical clipping
+confusion;personality changes;movement problems,Wernicke-Korsakoff Syndrome,E51.2,3,Thiamine
+headache;dizziness;cognitive issues,Post-Concussion Syndrome,F07.81,2,Amitriptyline
+memory loss;confusion;difficulty speaking,Primary Progressive Aphasia,G31.01,2,Speech therapy
+headache;neck stiffness;photophobia,Subarachnoid Hemorrhage,I60,3,Nimodipine
+confusion;memory loss;personality changes,Chronic Traumatic Encephalopathy,G94,3,Supportive care
+abdominal pain;weight loss;oily stools,Chronic Pancreatitis,K86.1,3,Pancrelipase
+abdominal pain;fever;nausea,Pancreatic Pseudocyst,K86.3,2,Endoscopic drainage
+abdominal pain;nausea;fever,Pancreatic Abscess,K85.8,3,Piperacillin-tazobactam
+abdominal pain;weight loss;diarrhea,Pancreatic Exocrine Insufficiency,K86.81,2,Pancreatic enzyme replacement therapy
+abdominal pain;jaundice;fever,Pancreatic Ascites,K86.8,2,Octreotide
+abdominal pain;weight loss;jaundice,Ampullary Carcinoma,C24.1,3,Gemcitabine/Cisplatin
+nausea;vomiting;abdominal pain,Pancreatic Divisum,Q45.3,2,Endoscopic sphincterotomy
+abdominal pain;diarrhea;flushing,Pancreatic Neuroendocrine Tumor,C25.4,3,Octreotide
+abdominal pain;back pain;weight loss,Pancreatic Cyst,D13.6,2,Endoscopic ultrasound-guided aspiration
+abdominal pain;nausea;vomiting,Pancreatic Trauma,S36.20,3,Surgical repair
+abdominal pain;nausea;vomiting,Annular Pancreas,Q45.1,2,Surgical correction
+abdominal pain;weight loss;jaundice,Acinar Cell Carcinoma of Pancreas,C25.8,3,FOLFIRINOX chemotherapy
+abdominal pain;nausea;vomiting,Pancreatic Arteriovenous Malformation,Q27.8,2,Endovascular embolization
+abdominal pain;fever;nausea,Pancreatic Ascariasis,B77.8,2,Albendazole
+increased thirst;frequent urination;fatigue,Neonatal Diabetes,P70.2,3,Insulin
+abdominal pain;jaundice;fever,Choledochal Cyst,Q44.4,2,Surgical excision
+increased thirst;frequent urination;fatigue,Steroid-Induced Diabetes,E13.9,2,Insulin
+abdominal pain;weight loss;jaundice,Pancreatic Lymphoma,C85.8,3,R-CHOP chemotherapy
+abdominal pain;nausea;vomiting,Pancreatic Tuberculosis,A18.83,2,Anti-tubercular therapy
+abdominal pain;weight loss;diarrhea,Glucagonoma,E16.3,3,Octreotide
+abdominal pain;nausea;vomiting,Pancreatic Arterial Aneurysm,I72.8,3,Endovascular coiling
+diarrhea;abdominal cramps;nausea,Giardiasis,A07.1,2,Metronidazole
+abdominal pain;nausea;vomiting,Intussusception,K56.1,3,Surgical reduction
+rectal bleeding;constipation;abdominal pain,Anal Fissure,K60.2,1,Nitroglycerin ointment
+rectal pain;bleeding;itching,Hemorrhoids,K64,1,Hydrocortisone cream
+bloody diarrhea;abdominal cramps;fever,Enterohemorrhagic E. coli,A04.3,2,Supportive care
+abdominal pain;nausea;vomiting,Meckel's Diverticulum,Q43.0,2,Surgical resection
+rectal bleeding;tenesmus;diarrhea,Proctitis,K62.89,2,Mesalamine suppositories
+abdominal pain;constipation;bloating,Hirschsprung's Disease,Q43.1,3,Surgical correction
+abdominal pain;nausea;vomiting,Intestinal Volvulus,K56.2,3,Surgical correction
+diarrhea;abdominal pain;weight loss,Protein-Losing Enteropathy,K90.4,2,Albumin infusion
+rectal pain;discharge;fever,Perianal Abscess,K61.0,2,Incision and drainage
+abdominal pain;diarrhea;joint pain,Enteropathic Arthritis,M07.5,2,Sulfasalazine
+rectal bleeding;mucus discharge;tenesmus,Rectal Prolapse,K62.3,2,Surgical repair
+diarrhea;abdominal pain;fever,Clostridium Difficile Infection,A04.7,2,Vancomycin
+abdominal pain;nausea;vomiting,Intestinal Adhesions,K66.0,2,Surgical lysis
+diarrhea;abdominal pain;weight loss,Intestinal Lymphoma,C85.9,3,CHOP chemotherapy
+rectal pain;bleeding;constipation,Solitary Rectal Ulcer Syndrome,K62.6,1,Sucralfate enemas
+diarrhea;abdominal pain;flatulence,Sucrase-Isomaltase Deficiency,E74.3,1,Sucraid enzyme replacement
+rectal bleeding;diarrhea;abdominal pain,Radiation Proctitis,K62.7,2,Sucralfate enemas
+abdominal pain;fatigue;easy bruising,Splenic Rupture,S36.00,3,Splenectomy
+abdominal fullness;fatigue;anemia,Splenomegaly,R16.1,2,Treat underlying cause
+left upper quadrant pain;fever;chills,Splenic Abscess,D73.3,3,Antibiotics
+abdominal pain;fever;weight loss,Splenic Tuberculosis,A18.85,2,Anti-tubercular therapy
+fatigue;easy bruising;recurrent infections,Asplenia,D73.0,3,Prophylactic antibiotics
+left upper quadrant pain;nausea;vomiting,Splenic Infarction,I75.89,2,Anticoagulation
+fatigue;pallor;shortness of breath,Hypersplenism,D73.1,2,Splenectomy
+abdominal pain;fever;fatigue,Splenic Sarcoidosis,D86.89,2,Corticosteroids
+left upper quadrant pain;fever;fatigue,Splenic Vein Thrombosis,I81,2,Anticoagulation
+abdominal pain;fever;weight loss,Splenic Hydatid Cyst,B67.8,2,Albendazole
+fatigue;easy bruising;petechiae,Idiopathic Thrombocytopenic Purpura,D69.3,2,Prednisone
+abdominal pain;fever;chills,Splenic Candidiasis,B37.8,2,Fluconazole
+abdominal fullness;fatigue;anemia,Gaucher Disease,E75.22,2,Enzyme replacement therapy
+left upper quadrant pain;fever;nausea,Perisplenitis,D73.89,2,Nonsteroidal anti-inflammatory drugs
+fatigue;pallor;jaundice,Hereditary Spherocytosis,D58.0,2,Splenectomy
+abdominal pain;fever;night sweats,Splenic Metastasis,C78.89,3,Chemotherapy
+fatigue;easy bruising;frequent infections,Congenital Asplenia,Q89.01,3,Prophylactic antibiotics
+abdominal pain;fever;weight loss,Splenic Amyloidosis,E85.9,2,Treat underlying cause
+left upper quadrant pain;fever;fatigue,Splenic Artery Thrombosis,I74.8,2,Anticoagulation
+fatigue;pallor;shortness of breath,Thalassemia Major,D56.1,3,Blood transfusions
+abdominal pain;fever;night sweats,Splenic Marginal Zone Lymphoma,C83.0,2,Rituximab
+left upper quadrant pain;fever;nausea,Splenic Flexure Syndrome,K58.9,1,Antispasmodics
+fatigue;easy bruising;splenomegaly,Hairy Cell Leukemia,C91.4,2,Cladribine
+abdominal pain;fever;chills,Splenic Actinomycosis,A42.9,2,Penicillin
+left upper quadrant pain;fever;fatigue,Splenic Pseudocyst,D73.4,2,Percutaneous drainage
+fatigue;pallor;jaundice,Sickle Cell Disease,D57,3,Hydroxyurea
+left upper quadrant pain;fever;chills,Splenic Cryptococcosis,B45.9,2,Amphotericin B
+fatigue;easy bruising;splenomegaly,Chronic Myeloid Leukemia,C92.1,2,Imatinib
+abdominal pain;fever;weight loss,Splenic Histoplasmosis,B39.4,2,Itraconazole
+abdominal pain;fever;night sweats,Splenic Hodgkin's Lymphoma,C81.9,3,ABVD chemotherapy
+fatigue;easy bruising;splenomegaly,Polycythemia Vera,D45,2,Hydroxyurea
+abdominal pain;fever;chills,Splenic Nocardiosis,A43.9,2,Trimethoprim-sulfamethoxazole
+left upper quadrant pain;fever;nausea,Wandering Spleen,Q89.09,2,Splenopexy
+fatigue;pallor;jaundice,Pyruvate Kinase Deficiency,D55.2,2,Splenectomy
+abdominal pain;fever;night sweats,Splenic Myelofibrosis,D47.4,2,Ruxolitinib
+left upper quadrant pain;fever;chills,Splenic Brucellosis,A23.9,2,Doxycycline and rifampin
+fatigue;easy bruising;splenomegaly,Essential Thrombocythemia,D47.3,2,Anagrelide
+abdominal pain;fever;weight loss,Splenic Schistosomiasis,B65.9,2,Praziquantel
+left upper quadrant pain;fever;fatigue,Splenic Arteriovenous Fistula,Q27.33,2,Endovascular embolization
+right upper quadrant pain;nausea;vomiting,Cholelithiasis,K80.20,2,Ursodeoxycholic acid
+abdominal pain;jaundice;dark urine,Choledocholithiasis,K80.50,2,Endoscopic retrograde cholangiopancreatography
+right upper quadrant pain;nausea;vomiting,Gallbladder Polyps,K82.4,1,Cholecystectomy
+abdominal pain;jaundice;pale stools,Biliary Atresia,Q44.2,3,Kasai procedure
+abdominal pain;jaundice;weight loss,Klatskin Tumor,C24.0,3,Gemcitabine/Cisplatin
+right upper quadrant pain;bloating;nausea,Sphincter of Oddi Dysfunction,K83.8,2,Botulinum toxin injection
+right upper quadrant pain;fever;chills,Gallbladder Perforation,K82.2,3,Emergency cholecystectomy
+right upper quadrant pain;bloating;nausea,Postcholecystectomy Syndrome,K91.5,2,Antispasmodics
+abdominal pain;jaundice;weight loss,Bile Duct Cancer,C24.9,3,Gemcitabine/Cisplatin
+right upper quadrant pain;nausea;fever,Gallstone Ileus,K56.3,3,Enterolithotomy
+abdominal pain;jaundice;itching,Secondary Biliary Cirrhosis,K74.4,3,Ursodeoxycholic acid
+right upper quadrant pain;fever;jaundice,Gallbladder Mucocele,K82.1,2,Cholecystectomy
+right upper quadrant pain;nausea;vomiting,Gallbladder Duplication,Q44.1,1,Observation
+abdominal pain;jaundice;weight loss,Cystic Duct Cancer,C24.8,3,Radical cholecystectomy
+right upper quadrant pain;nausea;vomiting,Gallbladder Agenesis,Q44.0,1,Supportive care
+right upper quadrant pain;fever;chills,Parasitic Biliary Infection,B66.8,2,Praziquantel
+blood in urine;pain while urinating;pelvic pain,Bladder Cancer,C67,3,Bacillus Calmette-Guerin
+frequent urination;urgency;incontinence,Overactive Bladder,N32.81,2,Oxybutynin
+pain while urinating;pelvic pain;frequent urination,Interstitial Cystitis,N30.10,2,Pentosan polysulfate sodium
+difficulty urinating;weak stream;incomplete emptying,Benign Prostatic Hyperplasia,N40,2,Tamsulosin
+blood in urine;pelvic pain;frequent urination,Bladder Stones,N21.0,2,Lithotripsy
+frequent urination;nocturia;weak stream,Neurogenic Bladder,N31.9,2,Bethanechol
+pain while urinating;lower abdominal pain;fever,Acute Cystitis,N30.00,2,Trimethoprim-sulfamethoxazole
+urinary retention;overflow incontinence;abdominal pain,Urinary Retention,R33.9,3,Catheterization
+frequent urination;urgency;pelvic pain,Radiation Cystitis,N30.4,2,Pentosan polysulfate sodium
+difficulty urinating;pain in perineum;frequent urination,Prostatitis,N41.9,2,Doxycycline
+urinary incontinence;pelvic pressure;frequent urination,Pelvic Organ Prolapse,N81.9,2,Pelvic floor exercises
+blood in urine;fatigue;weight loss,Schistosomiasis,B65.0,2,Praziquantel
+pain while urinating;lower abdominal pain;cloudy urine,Bladder Diverticulum,N32.3,2,Surgical repair
+urinary retention;difficulty urinating;pelvic pain,Urethral Stricture,N35.9,2,Urethral dilation
+blood in urine;pelvic pain;urinary frequency,Bladder Endometriosis,N80.8,2,Leuprolide
+frequent urination;urgency;nocturia,Nocturia,R35.1,1,Desmopressin
+pain while urinating;lower abdominal pain;fever,Hemorrhagic Cystitis,N30.8,3,Mesna
+urinary incontinence;pelvic pressure;frequent urination,Stress Incontinence,N39.3,2,Duloxetine
+blood in urine;flank pain;fever,Renal Calculi,N20.0,2,Tamsulosin
+frequent urination;urgency;pelvic pain,Bladder Neck Obstruction,N32.0,2,Alfuzosin
+pain while urinating;lower abdominal pain;fever,Fournier's Gangrene,N49.3,3,Broad-spectrum antibiotics
+frequent urination;urgency;incontinence,Mixed Incontinence,N39.46,2,Mirabegron
+pain while urinating;lower abdominal pain;fever,Emphysematous Cystitis,N30.80,3,Piperacillin-tazobactam
+urinary retention;overflow incontinence;abdominal pain,Cauda Equina Syndrome,G83.4,3,Surgical decompression
+blood in urine;pelvic pain;frequent urination,Bladder Hemangioma,D30.3,2,Endoscopic resection
+frequent urination;urgency;pelvic pain,Hunner's Lesions,N30.11,2,Triamcinolone injection
+pain while urinating;lower abdominal pain;cloudy urine,Bladder Exstrophy,Q64.10,3,Surgical reconstruction
+urinary incontinence;pelvic pressure;frequent urination,Urethral Diverticulum,N36.1,2,Surgical excision
+blood in urine;fatigue;weight loss,Bladder Paraganglioma,D44.7,2,Surgical resection
+frequent urination;urgency;incontinence,Giggle Incontinence,N39.45,1,Imipramine
+urinary retention;difficulty urinating;pelvic pain,Posterior Urethral Valves,Q64.2,3,Endoscopic valve ablation
+frequent urination;urgency;nocturia,Nocturnal Enuresis,N39.44,1,Desmopressin
+urinary incontinence;pelvic pressure;frequent urination,Vesicovaginal Fistula,N82.0,2,Surgical repair
+blood in urine;flank pain;fever,Ureteral Calculi,N20.1,2,Tamsulosin
+urinary retention;difficulty urinating;pelvic pain,Detrusor-Sphincter Dyssynergia,N36.44,2,Botulinum toxin injection
+heavy menstrual bleeding;pelvic pain;anemia,Uterine Fibroids,D25,2,Leuprolide
+abnormal vaginal bleeding;pelvic pain;fatigue,Endometrial Cancer,C54,3,Carboplatin
+pelvic pain;heavy periods;infertility,Endometriosis,N80,2,Dienogest
+abnormal uterine bleeding;pelvic pain;cramping,Adenomyosis,N80.1,2,Tranexamic acid
+pelvic pain;vaginal discharge;fever,Pelvic Inflammatory Disease,N73,2,Doxycycline
+pelvic pressure;urinary frequency;constipation,Uterine Prolapse,N81.2,2,Pessary
+abnormal vaginal bleeding;pelvic pain;cramping,Uterine Polyps,N84.0,1,Hysteroscopic polypectomy
+heavy menstrual bleeding;fatigue;dizziness,Menorrhagia,N92.0,2,Tranexamic acid
+pelvic pain;fever;abnormal vaginal discharge,Pyometra,N71.0,3,Ampicillin/Sulbactam
+abnormal uterine bleeding;pelvic pain;fatigue,Uterine Sarcoma,C54.1,3,Docetaxel
+severe menstrual cramps;heavy bleeding;back pain,Dysmenorrhea,N94.6,2,Ibuprofen
+pelvic pain;abnormal bleeding;infertility,Asherman's Syndrome,N85.6,2,Hysteroscopic adhesiolysis
+irregular periods;hot flashes;mood swings,Perimenopause,N95.1,1,Conjugated estrogens
+pelvic pain;vaginal bleeding;cramping,Ectopic Pregnancy,O00,3,Methotrexate
+abnormal vaginal bleeding;pelvic pain;fatigue,Gestational Trophoblastic Disease,O01,3,Methotrexate
+pelvic pressure;urinary incontinence;back pain,Uterine Retroversion,N85.4,1,Pessary
+pelvic pain;fever;foul-smelling discharge,Endometritis,N71.9,2,Clindamycin
+irregular periods;pelvic pain;infertility,Uterine Septum,Q51.2,2,Hysteroscopic septum resection
+abnormal vaginal bleeding;pelvic pain;fatigue,Choriocarcinoma,C58,3,Etoposide
+irregular periods;pelvic pain;infertility,Unicornuate Uterus,Q51.4,2,Hormonal therapy
+abnormal uterine bleeding;pelvic pain;cramping,Cervical Stenosis,N88.2,1,Cervical dilation
+pelvic pressure;back pain;urinary frequency,Uterine Enlargement,N85.2,2,Gonadotropin-releasing hormone agonist
+heavy menstrual bleeding;pelvic pain;anemia,Uterine Arteriovenous Fistula,I77.0,2,Uterine artery embolization
+abnormal vaginal bleeding;pelvic pain;fatigue,Placental Site Trophoblastic Tumor,D39.2,3,Hysterectomy
+pelvic pain;vaginal discharge;fever,Tubo-ovarian Abscess,N70.03,3,Ceftriaxone and Metronidazole
+irregular periods;pelvic pain;infertility,Arcuate Uterus,Q51.810,1,Observation
+abnormal uterine bleeding;pelvic pain;fatigue,Uterine Carcinosarcoma,C54.9,3,Ifosfamide and Paclitaxel
+pelvic pain;heavy bleeding;cramping,Uterine Hyperplasia,N85.00,2,Progestin therapy
+irregular periods;pelvic pain;infertility,Bicornuate Uterus,Q51.3,2,Metroplasty
+pelvic pressure;urinary frequency;constipation,Cystocele,N81.10,2,Pessary
+pelvic pain;fever;abnormal vaginal discharge,Retained Products of Conception,O73.1,2,Dilation and curettage
+irregular periods;pelvic pain;infertility,T-shaped Uterus,Q51.818,2,Hysteroscopic metroplasty
+pelvic pain;heavy bleeding;cramping,Adenomatoid Tumor of Uterus,D27.9,1,Surgical excision
+irregular periods;pelvic pain;infertility,Uterus Didelphys,Q51.10,2,Observation
+pelvic pressure;back pain;urinary frequency,Hematometra,N85.7,2,Cervical dilation
+pelvic pain;nausea;vomiting,Ovarian Torsion,N83.51,3,Laparoscopic detorsion
+pelvic pain;bloating;urinary frequency,Ovarian Cyst,N83.20,2,Oral contraceptives
+irregular periods;hot flashes;night sweats,Premature Ovarian Failure,E28.31,2,Hormone replacement therapy
+abdominal swelling;shortness of breath;weight loss,Ovarian Hyperstimulation Syndrome,N98.1,3,Cabergoline
+lower abdominal pain;nausea;vomiting,Ruptured Ovarian Cyst,N83.201,2,Analgesics
+irregular periods;hirsutism;acne,Congenital Adrenal Hyperplasia,E25.0,2,Hydrocortisone
+pelvic pain;bloating;early satiety,Borderline Ovarian Tumor,D39.10,2,Surgical resection
+infertility;irregular periods;pelvic pain,Ovarian Failure,E28.39,2,Clomiphene
+irregular periods;breast tenderness;mood swings,Corpus Luteum Cyst,N83.1,1,Observation
+pelvic pain;bloating;difficulty urinating,Ovarian Fibroma,D27,2,Surgical removal
+abdominal pain;fever;nausea,Ovarian Remnant Syndrome,N94.89,2,Laparoscopic excision
+irregular periods;excessive hair growth;acne,Hyperandrogenism,E28.1,2,Spironolactone
+pelvic pain;bloating;back pain,Krukenberg Tumor,C79.6,3,Chemotherapy
+infertility;irregular periods;galactorrhea,Hyperprolactinemia,E22.1,2,Bromocriptine
+lower abdominal pain;fever;painful urination,Ovarian Tuberculosis,A18.17,2,Anti-tubercular therapy
+abdominal swelling;weight gain;shortness of breath,Pseudomyxoma Peritonei,C78.6,3,Cytoreductive surgery
+irregular periods;facial hair growth;hair loss,Ovarian Hyperthecosis,E28.8,2,Metformin
+pelvic pain;fever;vaginal discharge,Hydrosalpinx,N70.11,2,Salpingectomy
+lower abdominal pain;nausea;breast tenderness,Ovarian Pregnancy,O00.2,3,Methotrexate
+abdominal pain;fever;nausea,Fitz-Hugh-Curtis Syndrome,N74,2,Doxycycline
+irregular periods;fatigue;cold intolerance,Ovarian Hypothyroidism,E03.9,2,Levothyroxine
+abdominal pain;nausea;vomiting,Ovarian Hypoplasia,Q50.39,2,Hormone replacement therapy
+irregular periods;night sweats;vaginal dryness,Ovarian Atrophy,N95.8,2,Estradiol
+pelvic pain;bloating;fever,Ovarian Actinomycosis,A42.81,2,Penicillin G
+abdominal pain;nausea;vomiting,Massive Ovarian Edema,N83.8,2,Analgesics
+testicular pain;swelling;redness,Orchitis,N45,2,Ibuprofen
+painless testicular lump,Testicular Cancer,C62,3,Cisplatin
+sudden severe testicular pain,Testicular Torsion,N44,3,Surgery
+testicular atrophy;low testosterone,Klinefelter Syndrome,Q98.0,2,Testosterone replacement
+scrotal swelling;heaviness,Hydrocele,N43.3,1,Surgical repair
+painful testicular swelling;fever,Testicular Abscess,N45.2,3,Antibiotics
+testicular pain;swelling;nausea,Testicular Trauma,S30.2,2,Ice packs
+scrotal itching;rash,Scrotal Dermatitis,L29.1,1,Hydrocortisone cream
+testicular shrinkage;infertility,Varicocele,I86.1,2,Varicocelectomy
+painless scrotal mass,Spermatocele,N43.4,1,Observation
+testicular pain;fever;nausea,Mumps Orchitis,B26.0,2,Analgesics
+testicular swelling;tenderness,Testicular Cyst,N44.8,1,Aspiration
+testicular discomfort;infertility,Cryptorchidism,Q53,2,Orchiopexy
+testicular pain;abdominal pain,Inguinal Hernia,K40,2,Hernia repair surgery
+testicular tenderness;urethral discharge,Gonorrhea,A54.2,2,Ceftriaxone
+scrotal ulcers;lymph node swelling,Lymphogranuloma Venereum,A55,2,Doxycycline
+testicular pain;lower back pain,Retroperitoneal Fibrosis,N13.5,2,Prednisone
+scrotal swelling;fever;malaise,Filariasis,B74,2,Ivermectin
+scrotal pain;urinary retention,Acute Prostatitis,N41.0,3,Levofloxacin
+testicular hardening;infertility,Testicular Microlithiasis,N50.8,1,Monitoring
+scrotal swelling;pain on urination,Chlamydia,A56.1,2,Azithromycin
+scrotal redness;warmth;pain,Cellulitis,L03.3,2,Cephalexin
+testicular pain;blood in semen,Seminal Vesiculitis,N49.0,2,Ciprofloxacin
+scrotal swelling;fever;fatigue,Tuberculosis Orchitis,A18.1,3,Anti-tuberculosis drugs
+testicular pain;lower abdominal pain,Chronic Pelvic Pain Syndrome,N41.1,2,Pregabalin
+testicular shrinkage;erectile dysfunction,Testicular Atrophy,N50.0,2,Testosterone gel
+scrotal itching;burning sensation,Tinea Cruris,B35.6,1,Clotrimazole cream
+testicular discomfort;blood in urine,Testicular Infarction,N50.1,3,Anticoagulants
+scrotal swelling;pain;nausea,Testicular Rupture,S39.94,3,Surgical exploration
+scrotal masses;infertility,Testicular Dysgenesis Syndrome,Q55.8,2,Hormonal therapy
+scrotal ulceration;inguinal lymphadenopathy,Chancroid,A57,2,Azithromycin
+chest pain;difficulty swallowing,Esophageal Stricture,K22.2,2,Esophageal dilation
+painful swallowing;chest pain,Esophagitis,K20,2,Pantoprazole
+chest pain;fever;difficulty swallowing,Esophageal Perforation,K22.3,3,Antibiotics
+heartburn;cough;hoarseness,Laryngopharyngeal Reflux,J39.2,2,Ranitidine
+chest pain;reflux;regurgitation,Hiatal Hernia,K44,2,Famotidine
+heartburn;chest pain;bitter taste,Barrett's Esophagus,K22.7,2,Esomeprazole
+chest pain;difficulty swallowing;weight loss,Esophageal Ulcer,K22.1,2,Sucralfate
+regurgitation;bad breath;chest pain,Zenker's Diverticulum,K22.5,2,Surgery
+difficulty swallowing;coughing while eating,Tracheoesophageal Fistula,Q39.2,3,Surgical repair
+chest pain;fever;difficulty swallowing,Candidal Esophagitis,B37.81,2,Fluconazole
+difficulty swallowing;weight loss;coughing,Esophageal Stricture due to Radiation,K62.4,2,Esophageal stent
+chest pain;fever;painful swallowing,Herpes Esophagitis,B00.81,2,Acyclovir
+difficulty swallowing;chest pain;regurgitation,Esophageal Web,Q39.4,2,Endoscopic dilation
+heartburn;cough;voice changes,Reflux Laryngitis,J37.0,2,Lansoprazole
+regurgitation;chest pain;weight loss,Scleroderma Esophagus,M34.8,2,Metoclopramide
+heartburn;chest pain;chronic cough,Nocturnal Gastroesophageal Reflux,K21.0,2,Dexlansoprazole
+painful swallowing;fever;chest pain,Cytomegalovirus Esophagitis,B25.2,3,Ganciclovir
+heartburn;chest pain;chronic hoarseness,Reflux-Induced Vocal Cord Dysfunction,J38.7,2,Rabeprazole
+difficulty swallowing;chest pain;weight loss,Esophageal Stricture due to Caustic Injury,T28.6,3,Esophageal reconstruction
+difficulty swallowing;chest pain;food sticking,Esophageal Intramural Pseudodiverticulosis,K22.8,2,Proton pump inhibitors
+heartburn;chest pain;asthma-like symptoms,Reflux-Induced Asthma,J45.998,2,H2 receptor antagonists
+difficulty swallowing;chest pain;weight loss,Esophageal Stricture due to Lichen Planus,L43.8,2,Topical corticosteroids
+heartburn;chest pain;difficulty breathing,Reflux-Induced Pulmonary Fibrosis,J84.10,3,Antifibrotic agents
+heartburn;chest pain;chronic sinusitis,Reflux-Induced Sinusitis,J32.9,2,Nasal corticosteroids
+stridor;cough;difficulty breathing,Tracheal Stenosis,J39.8,2,Bronchodilators
+hemoptysis;dyspnea;chest pain,Tracheal Tumor,C33,3,Radiation Therapy
+noisy breathing;recurrent respiratory infections;cyanosis,Congenital Tracheal Web,Q32.1,2,Balloon Dilation
+cough;wheezing;chest discomfort,Tracheal Bronchitis,J40,1,Antibiotics
+stridor;cyanosis;respiratory distress,Tracheal Foreign Body,T17.8,3,Bronchoscopic Removal
+cough;fever;chest pain,Tuberculous Tracheitis,A15.8,2,Anti-tuberculosis Drugs
+hoarseness;dyspnea;stridor,Tracheal Papillomatosis,D14.2,2,Laser Ablation
+wheezing;cough;chest tightness,Tracheal Asthma,J45.909,2,Inhaled Corticosteroids
+hemoptysis;dyspnea;fever,Tracheal Hemorrhage,R04.8,3,Hemostatic Agents
+dyspnea;stridor;cyanosis,Tracheal Rupture,S27.5,3,Surgical Repair
+persistent cough;hoarseness;dysphagia,Acquired Tracheoesophageal Fistula,J95.04,3,Surgical Closure
+stridor;cyanosis;respiratory distress,Tracheal Aspergillosis,B44.1,3,Antifungal Medication
+wheezing;cough;chest tightness,Tracheal Bronchospasm,J98.01,2,Bronchodilators
+hemoptysis;dyspnea;fever,Tracheal Varices,I86.8,3,Endoscopic Ligation
+persistent cough;wheezing;chest discomfort,Chemical Tracheitis,J68.0,2,Corticosteroids
+cough;fever;chest pain,Tracheal Sarcoidosis,D86.0,2,Systemic Corticosteroids
+hoarseness;dysphagia;neck swelling,Tracheal Metastasis,C78.39,3,Palliative Care
+wheezing;shortness of breath;chest tightness,Relapsing Polychondritis,M94.1,2,Immunosuppressants
+persistent cough;hoarseness;dysphagia,Tracheoinnominate Fistula,J95.09,3,Emergency Surgery
+dyspnea;stridor;cyanosis,Tracheal Mucormycosis,B46.0,3,Antifungal Therapy
+cough;wheezing;chest discomfort,Wegener's Granulomatosis,M31.30,2,Cyclophosphamide
+neck swelling;difficulty swallowing;hoarseness,Thyroid Nodule,E04.1,1,Watchful Waiting
+neck pain;fever;difficulty swallowing,Thyroiditis,E06,2,NSAIDs
+bulging eyes;double vision;eye irritation,Thyroid Eye Disease,H06.2,2,Prednisone
+neck swelling;difficulty breathing;choking sensation,Goiter,E04,2,Iodine Supplements
+fatigue;muscle weakness;constipation,Myxedema,E03.5,3,Intravenous Levothyroxine
+neck tenderness;fever;malaise,Subacute Thyroiditis,E06.1,2,Corticosteroids
+weight gain;hair loss;dry skin,Subclinical Hypothyroidism,E02,1,Levothyroxine
+fatigue;memory problems;depression,Postpartum Thyroiditis,E06.4,2,Levothyroxine
+weight loss;diarrhea;muscle weakness,T3 Thyrotoxicosis,E05.8,2,Propranolol
+neck pain;fever;malaise,Acute Thyroiditis,E06.0,2,Antibiotics
+neck swelling;rapid growth;difficulty breathing,Thyroid Adenoma,D34,2,Surgical Removal
+fatigue;constipation;cold intolerance,Congenital Hypothyroidism,E03.1,2,Levothyroxine
+palpitations;heat intolerance;increased sweating,Toxic Multinodular Goiter,E05.2,2,Radioactive Iodine
+neck swelling;difficulty breathing;chest pain,Retrosternal Goiter,E04.8,2,Surgical Removal
+fatigue;weight gain;puffy face,Iodine Deficiency,E01,1,Iodine Supplements
+tremors;weight loss;eye bulging,Toxic Adenoma,E05.1,2,Antithyroid Drugs
+palpitations;anxiety;heat intolerance,Jod-Basedow Phenomenon,E05.4,2,Beta-blockers
+fatigue;weight gain;hair loss,Thyroid Hormone Resistance,E07.8,2,Triiodothyronine
+fatigue;dry skin;memory problems,Secondary Hypothyroidism,E03.2,2,Levothyroxine
+neck tenderness;fatigue;joint pain,Riedel's Thyroiditis,E06.5,2,Corticosteroids
+fatigue;weight gain;constipation,Thyroid Hormone Withdrawal,E03.8,2,Temporary Levothyroxine
+neck mass;lymph node enlargement;difficulty swallowing,Metastatic Thyroid Cancer,C79.9,3,Targeted Therapy
+pus-filled bumps;redness;oily skin,Acne Vulgaris,L70,1,Benzoyl Peroxide
+red butterfly rash;photosensitivity;joint pain,Lupus,L93,3,Hydroxychloroquine
+mole changes;irregular borders;color variations,Melanoma,C43,3,Immunotherapy
+itchy blisters;redness;burning sensation,Contact Dermatitis,L23,1,Calamine Lotion
+redness;swelling;warmth,Cellulitis,L03,2,Cephalexin
+red scaly patches;itching;burning,Seborrheic Dermatitis,L21,1,Ketoconazole Shampoo
+skin thickening;itching;discoloration,Lichen Planus,L43,2,Topical Tacrolimus
+red wheals;itching;swelling,Urticaria,L50,1,Antihistamines
+tiny red dots;easy bruising;bleeding,Thrombocytopenia,D69.6,3,Corticosteroids
+blisters;raw skin;itching,Pemphigus,L10,3,Rituximab
+facial redness;pimples;eye irritation,Rosacea,L71,1,Metronidazole Cream
+red patches;scaling;itching,Tinea Corporis,B35.4,1,Terbinafine Cream
+sunburn;blistering;skin peeling,Sunburn,L55,1,Aloe Vera Gel
+rough patches;scaling;itching,Ichthyosis,Q80,2,Urea Cream
+skin ulcers;pain;discoloration,Venous Stasis Ulcers,I83.0,2,Compression Stockings
+red patches;scaling;nail changes,Pityriasis Rosea,L42,1,Antihistamines
+skin nodules;nerve pain;muscle weakness,Neurofibromatosis,Q85.0,2,Pain Management
+red bumps;pus;scarring,Hidradenitis Suppurativa,L73.2,2,Antibiotics
+pale skin;easy bruising;fatigue,Vitiligo,L80,1,Topical Corticosteroids
+red scaly rash;itching;blisters,Dyshidrotic Eczema,L30.1,1,Topical Tacrolimus
+skin tags;dark patches;obesity,Acanthosis Nigricans,L83,1,Weight Management
+red patches;scaling;nail pitting,Nail Psoriasis,L40.9,2,Topical Corticosteroids
+red rash;fever;muscle pain,Scarlet Fever,A38,2,Penicillin
+red patches;scaling;itching,Seborrheic Keratosis,L82,1,Cryotherapy
+skin hardening;joint pain;fatigue,Morphea,L94.0,2,Phototherapy
+blisters;raw skin;mucous membrane involvement,Stevens-Johnson Syndrome,L51.1,3,Supportive Care
+blue-red nodules;pain;cold sensitivity,Perniosis,T69.1,1,Nifedipine
+red patches;scaling;nail changes,Pityriasis Rubra Pilaris,L44.0,2,Acitretin
+skin fragility;blistering;scarring,Epidermolysis Bullosa,Q81,3,Wound Care
+red scaling patches;hair loss;itching,Lichen Planopilaris,L66.1,2,Topical Corticosteroids
+skin tightening;discoloration;joint pain,CREST Syndrome,M34.1,2,Calcium Channel Blockers
+red scaling patches;itching;chronic,Mycosis Fungoides,C84.0,3,PUVA Therapy
+bone pain;fractures;deformities,Osteogenesis Imperfecta,Q78.0,3,Bisphosphonates
+knee pain;stiffness;crepitus,Osteoarthritis,M17,2,Acetaminophen
+bone pain;fatigue;weakness,Multiple Myeloma,C90.0,3,Bortezomib
+back pain;sciatica;weakness,Herniated Disc,M51.2,2,NSAIDs
+hip pain;limping;restricted movement,Legg-Calve-Perthes Disease,M91.1,2,Physical Therapy
+bone pain;pathological fractures;hypercalcemia,Bone Metastases,C79.5,3,Radiation Therapy
+bone pain;deformities;short stature,Rickets,E55.0,2,Vitamin D Supplements
+bone pain;swelling;warmth,Osteomyelitis,M86,3,Intravenous Antibiotics
+joint pain;swelling;redness,Septic Arthritis,M00,3,Intravenous Antibiotics
+bone pain;fatigue;frequent infections,Leukemia,C95,3,Chemotherapy
+spine curvature;back pain;uneven shoulders,Scoliosis,M41,2,Bracing
+bone pain;pathological fractures;fatigue,Gaucher's Disease,E75.2,2,Enzyme Replacement Therapy
+joint pain;swelling;enthesitis,Enteropathic Arthritis,M07.3,2,Sulfasalazine
+bone pain;fractures;muscle weakness,Hypophosphatasia,E83.3,3,Asfotase Alfa
+joint pain;swelling;nodules,Polyarteritis Nodosa,M30.0,3,Cyclophosphamide
+bone pain;fractures;hypercalcemia,Familial Hypocalciuric Hypercalcemia,E83.52,1,Monitoring
+bone pain;fractures;muscle weakness,Tumor-Induced Osteomalacia,M83.8,2,Phosphate Supplements
+bone pain;fractures;hearing loss,Otosclerosis,H80,2,Sodium Fluoride
+joint pain;swelling;skin changes,Multicentric Reticulohistiocytosis,M35.8,3,Methotrexate
+muscle stiffness;spasms;difficulty walking,Spastic Paraplegia,G11.4,2,Baclofen
+muscle cramping;weakness;muscle atrophy,Peripheral Neuropathy,G60.9,2,Gabapentin
+muscle pain;weakness;fever,Polymyositis,M33.20,3,Methotrexate
+muscle weakness;fatigue;exercise intolerance,Mitochondrial Myopathy,G71.3,2,Coenzyme Q10
+muscle pain;weakness;skin rash,Dermatomyositis,M33.90,3,Azathioprine
+muscle weakness;difficulty swallowing;respiratory problems,Pompe Disease,E74.02,3,Enzyme Replacement Therapy
+muscle cramps;weakness;muscle hypertrophy,Thomsen Disease,G71.12,2,Mexiletine
+muscle weakness;respiratory failure;hypotonia,Spinal Muscular Atrophy,G12.0,3,Nusinersen
+muscle pain;weakness;elevated CK levels,Statin-Induced Myopathy,G72.0,2,Discontinuation of Statin
+muscle stiffness;pain;tremor,Stiff Person Syndrome,G25.82,2,Diazepam
+muscle weakness;ptosis;ophthalmoplegia,Chronic Progressive External Ophthalmoplegia,H49.4,2,Coenzyme Q10
+muscle pain;weakness;contractures,McArdle Disease,E74.04,2,Dietary Management
+muscle pain;weakness;dark urine,Myoglobinuria,R82.1,3,Aggressive Hydration
+muscle stiffness;spasms;pain,Tetanus,A35,3,Tetanus Immune Globulin
+muscle pain;weakness;rash,Eosinophilic Myositis,M60.80,2,Corticosteroids
+muscle stiffness;pain;weakness,Myotonia Congenita,G71.11,2,Mexiletine
+muscle weakness;respiratory failure;dysphagia,Congenital Myasthenic Syndrome,G70.2,3,Pyridostigmine
+muscle pain;stiffness;fatigue,Myofascial Pain Syndrome,M79.1,2,Trigger Point Injections
+muscle weakness;atrophy;cramps,Isaacs' Syndrome,G71.13,2,Carbamazepine
+leg pain;swelling;warmth,Deep Vein Thrombosis,I82.4,2,Heparin
+chest pain;sweating;nausea,Angina Pectoris,I20.9,2,Nitroglycerin
+abdominal pain;pulsating mass;back pain,Abdominal Aortic Aneurysm,I71.4,3,Surgical Repair
+leg pain;cramping;fatigue,Peripheral Artery Disease,I73.9,2,Cilostazol
+skin ulcers;varicose veins;leg pain,Chronic Venous Insufficiency,I87.2,2,Compression Stockings
+butterfly rash;joint pain;fatigue,Lupus Vasculitis,M32.1,3,Cyclophosphamide
+cold sensitivity;color changes in fingers,Raynaud's Phenomenon,I73.0,1,Nifedipine
+leg swelling;pain;redness,Thrombophlebitis,I80,2,Anticoagulants
+limb weakness;vision loss;headache,Takayasu's Arteritis,M31.4,3,Methotrexate
+erectile dysfunction;leg pain;hair loss,Leriche Syndrome,I74.0,2,Surgical Bypass
+skin discoloration;ulcers;gangrene,Buerger's Disease,I73.1,3,Smoking Cessation
+swelling;pain;redness,Lymphangitis,I89.1,2,Antibiotics
+nosebleeds;skin telangiectasias;arteriovenous malformations,Hereditary Hemorrhagic Telangiectasia,I78.0,2,Iron Supplements
+leg pain;skin changes;ulcers,Livedoid Vasculopathy,I78.8,2,Antiplatelet Agents
+headache;fever;rash,Cerebral Vasculitis,I67.7,3,Immunosuppressants
+arm pain;weakness;dizziness,Subclavian Steal Syndrome,I65.0,2,Angioplasty
+leg pain;pallor;pulselessness,Acute Limb Ischemia,I74.3,3,Thrombolytic Therapy
+leg ulcers;skin changes;edema,Post-thrombotic Syndrome,I87.0,2,Compression Therapy
+recurrent pneumonia;nosebleeds;brain abscess,Pulmonary Arteriovenous Malformation,Q25.72,2,Embolization
+headache;neck pain;vision changes,Carotid Artery Dissection,I77.71,3,Anticoagulation
+calf pain;swelling;redness,May-Thurner Syndrome,I87.1,2,Stent Placement
+skin ulcers;livedo reticularis;stroke,Antiphospholipid Syndrome,D68.61,3,Anticoagulation
+headache;visual disturbances;seizures,Reversible Cerebral Vasoconstriction Syndrome,I67.841,3,Calcium Channel Blockers
+leg pain;skin changes;ulceration,Venous Stasis Dermatitis,I83.1,2,Compression Therapy
+chest pain;shortness of breath;fatigue,Coronary Microvascular Disease,I20.8,2,Beta-blockers
+skin rash;fever;arthralgia,Cryoglobulinemic Vasculitis,D89.1,3,Rituximab
+leg pain;skin discoloration;ulcers,Erythromelalgia,I73.81,2,Aspirin
+chest pain;shortness of breath;dizziness,Coronary Artery Ectasia,I25.89,2,Anticoagulation
+headache;neck pain;vertigo,Vertebral Artery Dissection,I77.74,3,Anticoagulation
+facial pain;vision changes;headache,Cavernous Sinus Thrombosis,G08,3,Antibiotics and Anticoagulation
+dry eyes;itching;redness,Dry Eye Syndrome,H04.1,1,Artificial tears
+cloudy vision;colors appear faded;glare sensitivity,Cataracts,H25,2,N/A (surgery)
+central vision loss;distorted vision;color changes,Age-related Macular Degeneration,H35.3,2,Ranibizumab
+eye redness;discharge;swelling,Conjunctivitis,H10,1,Erythromycin ointment
+eye strain;headaches;blurred vision,Computer Vision Syndrome,H53.1,1,N/A (ergonomic changes)
+itchy eyes;tearing;redness,Allergic Conjunctivitis,H10.1,1,Ketotifen eye drops
+night blindness;peripheral vision loss;light sensitivity,Retinitis Pigmentosa,H35.5,2,Vitamin A supplements
+eye pain;redness;blurred vision,Keratitis,H16,2,Ganciclovir eye gel
+eyelid swelling;pain;redness,Chalazion,H00.1,1,Warm compresses
+eye redness;pain;discharge,Bacterial Keratitis,H16.1,3,Moxifloxacin eye drops
+eye redness;itching;swelling,Blepharitis,H01.0,1,Erythromycin ointment
+blurred vision;eye strain;headaches,Astigmatism,H52.2,1,Corrective lenses
+difficulty focusing;blurred near vision,Presbyopia,H52.4,1,Reading glasses
+blurred distance vision;squinting,Myopia,H52.1,1,Corrective lenses
+blurred near vision;farsightedness,Hyperopia,H52.0,1,Corrective lenses
+eyelid drooping;double vision,Ptosis,H02.4,2,N/A (surgery)
+eye pain;redness;tearing,Corneal Abrasion,S05.0,2,Erythromycin ointment
+eyelid twitching;muscle spasms,Blepharospasm,G24.5,1,Botulinum toxin injections
+eye redness;burning;foreign body sensation,Pinguecula,H11.1,1,Artificial tears
+yellow-white raised area on eye,Pterygium,H11.0,1,N/A (surgery if severe)
+eye redness;pain;light sensitivity,Scleritis,H15.0,2,Prednisolone eye drops
+eyelashes turning inward;eye irritation,Trichiasis,H02.05,1,Epilation
+eyelid turning outward;tearing;irritation,Ectropion,H02.1,2,N/A (surgery)
+eyelid turning inward;eye irritation,Entropion,H02.0,2,N/A (surgery)
+eye redness;pain;swelling,Orbital Cellulitis,H05.0,3,Intravenous antibiotics
+eye pain;redness;discharge,Dacryocystitis,H04.3,2,Oral antibiotics
+cloudy cornea;vision loss;eye pain,Corneal Ulcer,H16.0,3,Moxifloxacin eye drops
+eyelid lesion;growth;irritation,Eyelid Tumor,D48.7,2,N/A (biopsy/excision)
+eye redness;pain;light sensitivity,Iritis,H20.0,2,Prednisolone eye drops
+eye redness;itching;tearing,Vernal Keratoconjunctivitis,H16.2,2,Cyclosporine eye drops
+vision loss;eye pain;redness,Central Retinal Artery Occlusion,H34.1,3,Ocular massage
+sudden vision loss;floaters;flashes,Vitreous Hemorrhage,H43.1,2,N/A (observation/surgery)
+eye pain;redness;light sensitivity,Endophthalmitis,H44.0,3,Intravitreal antibiotics
+vision changes;flashing lights;floaters,Posterior Vitreous Detachment,H43.8,1,N/A (observation)
+eye redness;pain;light sensitivity,Herpes Simplex Keratitis,B00.52,2,Acyclovir ointment
+double vision;eye misalignment,Strabismus,H50,2,N/A (surgery or vision therapy)
+color vision deficiency;difficulty distinguishing colors,Color Blindness,H53.5,1,N/A (adaptive devices)
+eye redness;pain;blurred vision,Episcleritis,H15.1,1,Artificial tears
+knee pain;instability;swelling,Anterior Cruciate Ligament Tear,S83.51,2,Naproxen
+ankle pain;bruising;difficulty walking,Lateral Ankle Ligament Sprain,S93.4,1,Ibuprofen
+wrist pain;weakness;limited range of motion,Scapholunate Ligament Tear,S63.3,2,Celecoxib
+thumb pain;difficulty gripping,Ulnar Collateral Ligament Injury of Thumb,S63.61,1,Acetaminophen
+elbow pain;instability;loss of strength,Ulnar Collateral Ligament Tear of Elbow,S53.3,2,Diclofenac
+neck pain;stiffness;headache,Cervical Ligament Sprain,S13.4,1,Cyclobenzaprine
+lower back pain;muscle spasms;limited mobility,Lumbar Ligament Sprain,S33.5,2,Methocarbamol
+shoulder pain;instability;weakness,Acromioclavicular Ligament Sprain,S43.5,1,Meloxicam
+hip pain;difficulty walking;groin discomfort,Hip Ligament Sprain,S73.1,2,Tramadol
+jaw pain;clicking;difficulty chewing,Temporomandibular Ligament Disorder,M26.62,1,Diazepam
+knee buckling;pain behind knee;swelling,Posterior Cruciate Ligament Tear,S83.52,2,Ketorolac
+foot pain;arch collapse;difficulty standing,Plantar Ligament Sprain,S93.6,1,Indomethacin
+sternoclavicular joint pain;swelling;chest discomfort,Sternoclavicular Ligament Sprain,S43.6,2,Nabumetone
+finger pain;swelling;reduced grip strength,Collateral Ligament Sprain of Finger,S63.4,1,Aspirin
+toe pain;bruising;difficulty walking,Toe Ligament Sprain,S93.5,1,Etodolac
+sacroiliac joint pain;lower back stiffness;leg pain,Sacroiliac Ligament Sprain,S33.6,2,Piroxicam
+knee pain;locking;instability,Medial Collateral Ligament Tear,S83.41,2,Dexamethasone
+ankle instability;recurrent sprains;pain,Chronic Ankle Ligament Instability,M24.27,2,Ketoprofen
+shoulder blade pain;limited arm movement;weakness,Coracoclavicular Ligament Sprain,S43.8,2,Diflunisal
+wrist pain;clicking;reduced grip strength,Triangular Fibrocartilage Complex Tear,S63.2,2,Mefenamic acid
+knee pain;swelling;difficulty extending leg,Patellar Ligament Tear,S76.1,2,Oxaprozin
+lower back pain;leg weakness;numbness,Ligamentum Flavum Hypertrophy,M48.8,2,Gabapentin
+neck pain;arm weakness;tingling,Transverse Ligament Injury,S13.1,3,Pregabalin
+elbow pain;stiffness;limited range of motion,Radial Collateral Ligament Sprain,S53.4,1,Sulindac
+knee pain;giving way;difficulty pivoting,Anterolateral Ligament Tear,S83.8,2,Fenoprofen
+lower back pain;sciatica;leg weakness,Iliolumbar Ligament Syndrome,M53.3,2,Baclofen
+shoulder pain;instability;difficulty lifting arm,Coracohumeral Ligament Sprain,M75.8,2,Etoricoxib
+shoulder pain;clicking;limited range of motion,Glenohumeral Ligament Sprain,S43.4,2,Meloxicam
+swelling;pain;dry mouth,Sialadenitis,K11.2,2,Amoxicillin
+painless swelling;dry mouth;facial nerve weakness,Pleomorphic Adenoma,D11.0,1,Surgical excision
+rapid swelling;pain;fever,Mumps,B26.9,2,Acetaminophen
+recurrent swelling;pain;sour taste,Sialolithiasis,K11.5,2,Pilocarpine
+firm swelling;facial numbness;pain,Mucoepidermoid Carcinoma,C08.1,3,Radiation therapy
+painful swelling;fever;trismus,Parotid Abscess,K11.3,3,Clindamycin
+dry mouth;difficulty speaking;increased dental caries,Radiation-Induced Xerostomia,K11.7,2,Cevimeline
+painless swelling;facial paralysis;pain,Adenoid Cystic Carcinoma,C08.9,3,Cisplatin
+swelling;pain;difficulty opening mouth,Salivary Gland Cyst,K11.6,1,Aspiration
+dry mouth;difficulty chewing;speech problems,Salivary Gland Atrophy,K11.0,2,Pilocarpine
+swelling;pain;facial asymmetry,Salivary Gland Trauma,S09.93,2,Dexamethasone
+swelling;pain;fever,Viral Sialadenitis,B26.8,2,Acyclovir
+swelling;pain;difficulty opening mouth,Salivary Gland Fistula,K11.4,2,Pressure dressing
+swelling;pain;pus discharge,Necrotizing Sialometaplasia,K11.8,2,Supportive care
+recurrent swelling;pain;bitter taste,Sialadenosis,K11.1,1,Dietary changes
+dry mouth;difficulty chewing;speech problems,Salivary Gland Aplasia,Q38.4,2,Artificial saliva
+swelling;pain;facial asymmetry,Salivary Gland Hemangioma,D18.0,1,Sclerotherapy
+swelling;pain;fever,Tuberculous Sialadenitis,A18.8,3,Isoniazid
+swelling;pain;trismus,Salivary Gland Sarcoidosis,D86.8,2,Methotrexate
+pain;redness;swelling,Pilonidal Cyst,L05.9,2,Clindamycin
+itching;burning;rash,Intertrigo,L30.4,1,Miconazole
+bruising;pain;swelling,Gluteal Contusion,S30.0,1,Ibuprofen
+pain;numbness;tingling,Piriformis Syndrome,G57.0,2,Cyclobenzaprine
+redness;warmth;painful lump,Cellulitis of Buttock,L03.31,2,Cephalexin
+itching;red bumps;pus-filled lesions,Folliculitis,L02.31,1,Mupirocin
+pain;swelling;difficulty sitting,Ischial Bursitis,M70.7,2,Diclofenac
+discoloration;dimpling;lumps,Cellulite,L98.8,1,Tretinoin
+numbness;weakness;pain radiating down leg,Sciatica,M54.3,2,Gabapentin
+itching;burning;white patches,Tinea Cruris,B35.9,1,Terbinafine
+redness;scaling;itching,Eczema of Buttocks,L30.9,1,Hydrocortisone
+itching;burning;red patches,Contact Dermatitis,L25.9,1,Triamcinolone
+pain;difficulty walking;muscle spasms,Piriformis Muscle Spasm,M62.838,2,Baclofen
+itching;scaling;red patches,Seborrheic Dermatitis,L21.9,1,Ketoconazole
+pain;swelling;difficulty moving,Gluteal Tendinopathy,M76.0,2,Diclofenac
+itching;burning;blisters,Herpes Simplex,A60.9,2,Acyclovir
+pain;tenderness;difficulty sitting,Pudendal Neuralgia,G58.8,2,Amitriptyline
+itching;redness;scaling,Allergic Dermatitis,L23.9,1,Fexofenadine
+pain;swelling;difficulty sitting,Sacroiliac Joint Dysfunction,M46.1,2,Celecoxib
+itching;burning;red patches,Inverse Psoriasis,L40.8,2,Tacrolimus
+pain;numbness;tingling,Meralgia Paresthetica,G57.1,2,Gabapentin
+redness;scaling;itching,Lichen Planus,L43.9,1,Clobetasol
+itching;burning;redness,Candidiasis of Skin,B37.2,1,Clotrimazole
+pain;tenderness;difficulty sitting,Proctalgia Fugax,K59.4,1,Diltiazem cream
+pain;swelling;bruising,Gluteal Compartment Syndrome,T79.6,3,Fasciotomy
+itching;scaling;red patches,Atopic Dermatitis,L20.9,1,Pimecrolimus
+pain;difficulty walking;muscle weakness,Gluteal Muscle Atrophy,M62.50,2,Physical therapy
+neck pain;radiating arm pain;numbness,Cervical Radiculopathy,M54.12,2,Gabapentin
+neck stiffness;fever;headache,Meningitis,G00.9,3,Ceftriaxone
+neck mass;voice changes;difficulty breathing,Laryngeal Cancer,C32.9,3,Cisplatin
+neck pain;headache;dizziness,Cervicogenic Headache,M53.0,2,Amitriptyline
+neck pain;muscle spasms;tenderness,Cervical Strain,S13.4XXA,1,Cyclobenzaprine
+neck lump;difficulty swallowing;ear pain,Oropharyngeal Cancer,C10.9,3,Carboplatin
+neck pain;shoulder pain;weakness,Cervical Disc Herniation,M50.20,2,Methylprednisolone
+neck pain;headache;visual disturbances,Vertebral Artery Dissection,I67.0,3,Heparin
+neck pain;tingling;weakness in arms,Cervical Myelopathy,M47.12,3,Dexamethasone
+neck pain;difficulty swallowing;ear pain,Eagle Syndrome,M95.0,2,Carbamazepine
+neck swelling;difficulty breathing;stridor,Epiglottitis,J05.1,3,Ceftriaxone
+neck pain;headache;nausea,Occipital Neuralgia,M54.81,2,Pregabalin
+neck pain;clicking;limited range of motion,Cervical Facet Syndrome,M53.82,2,Diclofenac
+neck swelling;fever;sore throat,Peritonsillar Abscess,J36,2,Amoxicillin/Clavulanate
+neck pain;numbness;weakness in hands,Cervical Spinal Stenosis,M48.02,2,Tramadol
+neck stiffness;photophobia;confusion,Viral Encephalitis,A86,3,Acyclovir
+neck swelling;difficulty swallowing;voice changes,Goiter,E04.9,2,Propylthiouracil
+neck pain;headache;sensitivity to light,Cervicogenic Migraine,G44.89,2,Topiramate
+neck swelling;fever;malaise,Infectious Mononucleosis,B27.9,2,Prednisone
+neck pain;shoulder pain;arm weakness,Thoracic Outlet Syndrome,G54.0,2,Nortriptyline
+neck mass;difficulty swallowing;weight loss,Esophageal Cancer,C15.9,3,Fluorouracil
+neck pain;muscle weakness;sensory changes,Syringomyelia,G95.0,3,Baclofen
+neck swelling;fever;throat pain,Retropharyngeal Abscess,J39.0,3,Clindamycin
+neck swelling;difficulty breathing;cough,Laryngeal Edema,J38.4,3,Epinephrine
+neck mass;voice changes;persistent cough,Vocal Cord Paralysis,J38.00,2,Speech therapy
+neck pain;headache;neck stiffness,Atlantoaxial Instability,M43.4,3,Cervical collar
+neck swelling;fever;chills,Deep Neck Space Infection,L03.221,3,Vancomycin
+neck pain;difficulty turning head;muscle spasms,Acute Torticollis,M43.6,2,Baclofen
+neck mass;difficulty swallowing;ear pain,Parapharyngeal Space Tumor,D10.6,2,Surgical excision
+chest pain;fever;productive cough,Pneumonia,J15.9,2,Azithromycin
+chest discomfort;difficulty swallowing;regurgitation,Gastroesophageal Reflux Disease,K21.9,1,Omeprazole
+chest pain;shortness of breath;leg swelling,Congestive Heart Failure,I50.9,3,Furosemide
+chest pain;cough;fever,Acute Bronchitis,J20.9,1,Dextromethorphan
+chest pain;shortness of breath;dizziness,Pulmonary Embolism,I26.99,3,Heparin
+chest tightness;cough;mucus production,Chronic Obstructive Pulmonary Disease,J44.9,2,Tiotropium
+chest pain;rapid breathing;anxiety,Hyperventilation Syndrome,R06.4,1,Diazepam
+chest pain;fever;night sweats,Tuberculosis,A15.9,3,Isoniazid
+chest discomfort;difficulty breathing;fatigue,Anemia,D64.9,2,Ferrous sulfate
+chest pain;palpitations;fainting,Atrial Fibrillation,I48.91,2,Warfarin
+chest discomfort;burping;bloating,Functional Dyspepsia,K30,1,Metoclopramide
+chest pain;shortness of breath;cough,Pericarditis,I30.9,2,Colchicine
+chest pain;difficulty breathing;bluish skin,Pneumothorax,J93.9,3,Chest tube
+chest pain;fever;cough with blood,Lung Abscess,J85.2,3,Clindamycin
+chest tightness;cough;wheezing,Bronchiectasis,J47.9,2,Tobramycin
+chest pain;rapid heartbeat;sweating,Thyrotoxicosis,E05.90,2,Propranolol
+chest tightness;cough;chest pain,Costochondritis,M94.0,1,Ibuprofen
+chest pain;difficulty breathing;fever,Empyema,J86.9,3,Vancomycin
+chest tightness;wheezing;cough,Cystic Fibrosis,E84.9,3,Dornase alfa
+chest pain;shortness of breath;rapid heartbeat,Pulmonary Edema,J81.0,3,Morphine
+chest pain;fever;cough,Acute Respiratory Distress Syndrome,J80,3,Methylprednisolone
+chest tightness;shortness of breath;fatigue,Sarcoidosis,D86.9,2,Prednisone
+chest tightness;difficulty breathing;chest pain,Spontaneous Rib Fracture,S22.49XA,2,Acetaminophen
+chest pain;shortness of breath;leg swelling,Cor Pulmonale,I27.81,3,Spironolactone
+chest tightness;wheezing;shortness of breath,Exercise-Induced Bronchoconstriction,J45.990,1,Formoterol
+sore throat;fever;difficulty swallowing,Strep Throat,J02.0,2,Amoxicillin
+itching;red rash;blisters,Chickenpox,B01.9,2,Acyclovir
+joint pain;swelling;stiffness,Osteoarthritis,M19.90,2,Celecoxib
+skin rash;fever;body aches,Measles,B05.9,2,Vitamin A
+excessive thirst;frequent urination;weight loss,Type 1 Diabetes,E10.9,3,Insulin
+red eye;itching;tearing,Conjunctivitis,H10.9,1,Erythromycin eye ointment
+skin plaques;itching;scaling,Psoriasis,L40.0,2,Topical corticosteroids
+mood swings;sadness;loss of interest,Depression,F32.9,2,Sertraline
+anxiety;restlessness;excessive worry,Generalized Anxiety Disorder,F41.1,2,Escitalopram
+sneezing;itchy eyes;runny nose,Allergic Rhinitis,J30.9,1,Cetirizine
+joint pain;fatigue;skin rash,Rheumatoid Arthritis,M06.9,2,Methotrexate
+abdominal pain;jaundice;fever,Hepatitis A,B15.9,2,Supportive care
+memory loss;confusion;personality changes,Alzheimer's Disease,G30.9,3,Donepezil
+back pain;numbness;weakness,Herniated Disc,M51.26,2,Naproxen
+abdominal pain;blood in stool;diarrhea,Ulcerative Colitis,K51.90,2,Mesalamine
+muscle aches;fatigue;sore throat,Mononucleosis,B27.90,2,Supportive care
+rash;fever;swollen lymph nodes,Rubella,B06.9,1,Supportive care
+painful joints;fever;rash,Lyme Disease,A69.20,2,Doxycycline
+stomach pain;bloating;nausea,Peptic Ulcer,K27.9,2,Pantoprazole
+cough;fever;body aches,Influenza B,J10.1,2,Oseltamivir
+abdominal pain;fever;nausea,Appendicitis,K35.80,3,Appendectomy
+weight gain;mood swings;insomnia,Cushing's Syndrome,E24.9,3,Ketoconazole
+blurred vision;eye pain;halos around lights,Glaucoma,H40.9,2,Latanoprost
+abdominal pain;weight loss;diarrhea,Crohn's Disease,K50.90,2,Prednisone
+joint pain;fever;rash,Lupus,M32.9,3,Hydroxychloroquine
+abdominal distension;constipation;vomiting,Small Bowel Obstruction,K56.60,3,Nasogastric decompression
+right lower quadrant pain;fever;loss of appetite,Acute Diverticulitis,K57.32,2,Ciprofloxacin
+abdominal pain;clay-colored stools;dark urine,Acute Hepatitis,B17.9,3,Supportive care
+severe abdominal pain;nausea;fever,Acute Pancreatitis,K85.9,3,Hydromorphone
+abdominal pain;bloody diarrhea;fever,Bacterial Dysentery,A03.9,2,Ciprofloxacin
+abdominal pain;blood in stool;tenesmus,Colorectal Cancer,C18.9,3,Fluorouracil
+lower abdominal pain;constipation;rectal bleeding,Diverticulosis,K57.92,2,Fiber supplements
+upper abdominal pain;weight loss;jaundice,Pancreatic Cancer,C25.9,3,Gemcitabine
+lower abdominal pain;pelvic mass;irregular periods,Ovarian Cancer,C56.9,3,Carboplatin
+lower abdominal pain;testicular pain;scrotal swelling,Epididymitis,N45.1,2,Ceftriaxone
+upper abdominal pain;bloating;early satiety,Gastric Cancer,C16.9,3,Oxaliplatin
+lower abdominal pain;painful intercourse;infertility,Endometriosis,N80.9,2,Leuprolide
+abdominal pain;nausea;fever,Mesenteric Adenitis,I88.0,1,Ibuprofen
+upper abdominal pain;nausea;hematemesis,Mallory-Weiss Tear,K22.6,2,Pantoprazole
+abdominal pain;diarrhea;flatulence,Lactose Intolerance,E73.9,1,Lactase enzyme supplements
+upper back pain;stiffness;limited mobility,Thoracic Spondylosis,M47.14,2,Cyclobenzaprine
+lower back pain;muscle spasms;tenderness,Lumbar Strain,S39.012A,1,Ibuprofen
+mid-back pain;band-like tightness;numbness,Thoracic Myelopathy,G95.20,3,Prednisone
+lower back pain;morning stiffness;reduced mobility,Ankylosing Spondylitis,M45.9,2,Sulfasalazine
+upper back pain;shortness of breath;chest pain,Thoracic Aortic Aneurysm,I71.2,3,Metoprolol
+back pain;fever;night sweats,Spinal Tuberculosis,A18.01,3,Isoniazid
+lower back pain;sciatica;foot drop,Lumbar Spinal Stenosis,M48.06,2,Gabapentin
+back pain;leg pain;weakness,Spinal Cord Tumor,D43.4,3,Dexamethasone
+back pain;fever;chills,Epidural Abscess,G06.1,3,Vancomycin
+back pain;chest pain;cough,Lung Cancer,C34.90,3,Cisplatin
+lower back pain;leg pain;difficulty walking,Spinal Stenosis,M48.00,2,Tramadol
+back pain;weight loss;fatigue,Multiple Myeloma,C90.00,3,Bortezomib
+lower back pain;stiffness;reduced mobility,Lumbar Facet Syndrome,M53.86,2,Celecoxib
+lower back pain;leg pain;foot numbness,Tarlov Cyst,G96.19,2,Gabapentin
+upper back pain;rib pain;difficulty breathing,Intercostal Neuralgia,G58.0,2,Lidocaine patch
+back pain;fever;weight loss,Spinal Osteomyelitis,M46.20,3,Ceftriaxone
+lower back pain;hip pain;groin pain,Hip Osteoarthritis,M16.9,2,Acetaminophen
+back pain;muscle spasms;anxiety,Conversion Disorder,F44.9,2,Sertraline
+lower back pain;leg pain;foot weakness,Lumbosacral Plexopathy,G54.1,3,Pregabalin
+back pain;stiffness;skin rash,Psoriatic Arthritis,L40.50,2,Methotrexate
+lower back pain;abdominal pain;testicular pain,Renal Colic,N23,2,Ketorolac
+back pain;muscle weakness;difficulty walking,Spinal Muscular Atrophy,G12.9,3,Nusinersen
+upper back pain;arm pain;hand weakness,Thoracic Disc Herniation,M51.24,2,Gabapentin
+lower back pain;leg pain;difficulty standing,Spondylolisthesis,M43.10,2,Naproxen
+arm pain;weakness;numbness,Carpal Tunnel Syndrome,G56.00,2,Naproxen
+arm swelling;redness;warmth,Deep Vein Thrombosis,I82.401,3,Rivaroxaban
+arm pain;stiffness;reduced range of motion,Frozen Shoulder,M75.00,2,Prednisone
+arm pain;swelling;bruising,Biceps Tendon Rupture,S46.02XA,2,Ibuprofen
+arm pain;swelling;limited mobility,Tennis Elbow,M77.10,2,Diclofenac
+arm pain;redness;swelling,Cellulitis,L03.11,2,Cephalexin
+arm pain;numbness;cold sensitivity,Raynaud's Syndrome,I73.00,2,Nifedipine
+arm pain;swelling;fever,Septic Arthritis,M00.9,3,Vancomycin
+arm weakness;numbness;tingling,Cubital Tunnel Syndrome,G56.20,2,Naproxen
+arm deformity;pain;swelling,Radial Head Fracture,S52.121A,2,Acetaminophen
+arm pain;weakness;muscle atrophy,Rotator Cuff Tear,M75.100,2,Meloxicam
+arm swelling;pain;redness,Axillary Vein Thrombosis,I82.B11,3,Enoxaparin
+arm pain;tenderness;reduced mobility,Biceps Tendinitis,M75.20,2,Ibuprofen
+arm pain;swelling;warmth,Gout,M10.9,2,Colchicine
+arm pain;swelling;limited range of motion,Olecranon Bursitis,M70.20,2,Naproxen
+arm pain;redness;swelling,Erysipelas,A46,2,Penicillin
+arm weakness;numbness;tingling,Peripheral Neuropathy,G62.9,2,Duloxetine
+arm tremor;weakness;incoordination,Essential Tremor,G25.0,2,Propranolol
+arm pain;swelling;fever,Osteomyelitis,M86.9,3,Ceftriaxone
+arm weakness;numbness;pain,Complex Regional Pain Syndrome,G90.59,3,Amitriptyline
+arm swelling;pain;redness,Superficial Thrombophlebitis,I80.8,2,Ibuprofen
+forearm pain;weakness;numbness,Radial Tunnel Syndrome,G56.30,2,Naproxen
+forearm swelling;pain;redness,Cellulitis of Forearm,L03.113,2,Cephalexin
+forearm pain;stiffness;reduced range of motion,Pronator Teres Syndrome,G56.1,2,Ibuprofen
+forearm weakness;muscle wasting;fasciculations,Anterior Interosseous Syndrome,G56.81,2,Prednisone
+forearm rash;itching;blisters,Contact Dermatitis of Forearm,L25.1,1,Hydrocortisone cream
+forearm pain;swelling;bruising,Flexor Tendon Rupture,S56.019A,2,Acetaminophen
+forearm tremor;stiffness;weakness,Focal Dystonia,G24.9,2,Baclofen
+forearm pain;swelling;fever,Osteomyelitis of Radius,M86.931,3,Vancomycin
+forearm deformity;pain;swelling,Ulna Fracture,S52.201A,2,Tramadol
+forearm pain;weakness;muscle atrophy,Posterior Interosseous Syndrome,G56.31,2,Celecoxib
+forearm pain;tenderness;reduced mobility,Extensor Tendinitis,M77.9,2,Ibuprofen
+forearm rash;fever;lymph node swelling,Erysipeloid,A26.0,2,Penicillin
+forearm pain;swelling;warmth,Gout of Forearm,M10.931,2,Colchicine
+forearm pain;swelling;limited range of motion,Intersection Syndrome,M65.89,2,Naproxen
+forearm pain;swelling;fever,Septic Arthritis of Wrist,M00.931,3,Ceftriaxone
+forearm pain;stiffness;reduced mobility,De Quervain's Tenosynovitis,M65.4,2,Corticosteroid injection
+hip pain;groin pain;limping,Hip Impingement Syndrome,M25.851,2,Naproxen
+hip pain;swelling;warmth,Septic Arthritis of Hip,M00.051,3,Vancomycin
+hip pain;difficulty walking;leg length discrepancy,Hip Dysplasia,Q65.89,2,Physical therapy
+hip pain;groin pain;clicking,Labral Tear of Hip,S76.012A,2,Meloxicam
+hip pain;weakness;difficulty climbing stairs,Gluteus Medius Tendinopathy,M76.5,2,Diclofenac
+hip pain;swelling;redness,Bursitis of Hip,M70.70,1,Naproxen
+hip pain;groin pain;night pain,Avascular Necrosis of Hip,M87.059,3,Alendronate
+hip pain;weakness;muscle wasting,Hip Osteoporosis,M81.0,2,Calcium supplements
+hip pain;swelling;fever,Juvenile Idiopathic Arthritis,M08.00,3,Methotrexate
+hip pain;limping;leg shortening,Slipped Capital Femoral Epiphysis,M93.003,3,Surgical intervention
+hip pain;groin pain;painful clicking,Snapping Hip Syndrome,M24.851,1,Physical therapy
+hip pain;difficulty walking;muscle weakness,Hip Abductor Tear,S76.112A,2,Celecoxib
+hip pain;swelling;warmth,Psoriatic Arthritis of Hip,L40.52,2,Etanercept
+hip pain;groin pain;pain with hip rotation,Hip Impingement,M24.151,2,Intra-articular steroid injection
+hip pain;difficulty walking;leg length discrepancy,Legg-Calve-Perthes Disease,M91.10,3,Non-weight bearing protocol
+hip pain;swelling;fever,Transient Synovitis,M67.951,2,Ibuprofen
+hip pain;stiffness;reduced mobility,Rheumatoid Arthritis of Hip,M06.051,3,Methotrexate
+hip pain;groin pain;pain with hip flexion,Athletic Pubalgia,M76.892,2,Physical therapy
+hip pain;weakness;difficulty standing from seated position,Gluteus Minimus Tear,S76.122A,2,Naproxen
+hip pain;swelling;warmth,Gout of Hip,M10.051,2,Colchicine
+hip pain;limping;groin pain,Stress Fracture of Femoral Neck,S72.099A,3,Non-weight bearing protocol
+hip pain;numbness;weakness,Lumbar Radiculopathy,M54.16,2,Pregabalin
+hip pain;swelling;redness,Iliopsoas Bursitis,M70.50,2,Indomethacin
+hip pain;swelling;fever,Lyme Arthritis,A69.23,2,Doxycycline
+hip pain;stiffness;lower back pain,Diffuse Idiopathic Skeletal Hyperostosis,M48.10,2,Acetaminophen
+hip pain;difficulty walking;muscle weakness,Hip Flexor Strain,S76.011A,1,Rest and ice
+hip pain;swelling;warmth,Reactive Arthritis,M02.30,2,Sulfasalazine
+hip pain;groin pain;pain with weight-bearing,Stress Reaction of Femoral Neck,M84.459A,2,Rest and physical therapy
+hip pain;swelling;redness,Trochanteric Bursitis,M70.60,1,Corticosteroid injection
+hip pain;stiffness;reduced range of motion,Hip Ankylosis,M24.651,3,Surgical intervention
