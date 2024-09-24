@@ -1,6 +1,6 @@
 # Health Evaluator
 
-This Python script evaluates health conditions based on user-provided symptoms and optional medical documents. It predicts possible diseases and medications, provides advice based on the severity of symptoms, and suggests nearby medical centers if necessary.
+This Python program evaluates health conditions based on user-provided symptoms and optional medical documents. It predicts possible diseases and medications, provides advice based on the severity of symptoms, and suggests nearby medical centers if necessary.Can be merged with a MERN Stack.It provides an integrated solution for medical profession problems.
 
 ## Features
 - Predicts the top 3 possible diseases based on symptoms.
@@ -26,8 +26,8 @@ OR
    python HC.py "Your Name" "symptom1;symptom2;symptom3" "path_to_document_image.jpg"
 ```
 FOR EXAMPLE 
-Input:```py HC.py "John Doe" "fever;cough;fatigue" ```
-Output:```
+Input:```bash py HC.py "John Doe" "fever;cough;fatigue" ```
+Output:```bash
 {
   "name": "John Doe",
   "symptoms": "fever;cough;fatigue",
