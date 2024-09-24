@@ -26,7 +26,8 @@ OR
    python HC.py "Your Name" "symptom1;symptom2;symptom3" "path_to_document_image.jpg"
 ```
 FOR EXAMPLE 
-Input:```bash 
+Input:```
+bash 
 py HC.py "John Doe" "fever;cough;fatigue" 
 ```
 Output:
@@ -57,6 +58,5 @@ bash
     "longitude": 88.3186
   }
 }
-
 ```
 
