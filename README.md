@@ -11,9 +11,47 @@ This Python script evaluates health conditions based on user-provided symptoms a
 
 ## Installation
 
-1. Clone the repository or download the script.
+1. Clone the repository.
 2. Install the required Python packages:
 
 ```bash
    pip install geocoder overpy geopy numpy scikit-learn pytesseract pillow nltk
 ```
+OR 
+```bash
+   pip install -r requirements.txt
+```
+3.Run using the following format:
+```bash
+   python HC.py "Your Name" "symptom1;symptom2;symptom3" "path_to_document_image.jpg"
+```
+FOR EXAMPLE 
+Input:```py HC.py "John Doe" "fever;cough;fatigue" ```
+Output:```
+{
+  "name": "John Doe",
+  "symptoms": "fever;cough;fatigue",
+  "top_3_diseases": [
+    "Mixed Incontinence",
+    "Gout",
+    "Mononucleosis"
+  ],
+  "top_3_medications": [
+    "Stent Placement",
+    "Mexiletine",
+    "Clopidogrel"
+  ],
+  "severity": "mild",
+  "advice": "Monitor your symptoms and rest.",
+  "recommendations": [
+    "stay hydrated",
+    "rest",
+    "take over-the-counter medications if necessary"
+  ],
+  "location": {
+    "latitude": 22.5769,
+    "longitude": 88.3186
+  }
+}
+```
+
